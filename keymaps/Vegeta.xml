@@ -1,7 +1,14 @@
 <keymap version="1" name="Vegeta" parent="Mac OS X 10.5+">
+  <action id="AddToFavoritesPopup" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
@@ -15,4 +22,19 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt w" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="Refresh" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="RerunTests" />
+  <action id="SmartTypeCompletion" />
 </keymap>
