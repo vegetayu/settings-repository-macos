@@ -1,7 +1,12 @@
 <keymap version="1" name="Vegeta" parent="Mac OS X 10.5+">
   <action id="AddToFavoritesPopup" />
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="alt q" />
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="shift alt button1" />
+    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
@@ -19,6 +24,7 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt w" />
   </action>
@@ -28,12 +34,17 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="KotlinShellExecute" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
+  </action>
+  <action id="RecentFiles" />
   <action id="Refresh" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="alt r" />
@@ -42,5 +53,12 @@
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="RerunTests" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="SmartTypeCompletion" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="ViewSource" />
 </keymap>
