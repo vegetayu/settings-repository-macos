@@ -38,9 +38,13 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="GotoSymbol" />
   <action id="KotlinShellExecute" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
