@@ -162,6 +162,9 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
@@ -211,6 +214,7 @@
   <action id="MoveElementRight" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
@@ -224,6 +228,7 @@
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="PopupHector" />
+  <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
