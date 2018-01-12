@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/src/main/java/com/capsule/exservice/MainActivity.java - [app]'" />
-    <option name="defaultScopeName" value="File '.../app/src/main/java/com/capsule/exservice/MainActivity.java - [app]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/com/capsule/exservice/MainActivity.java - [app]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

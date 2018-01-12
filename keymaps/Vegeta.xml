@@ -155,13 +155,16 @@
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="shift alt f" />
+    <keyboard-shortcut first-keystroke="shift f3" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="meta alt down" />
@@ -272,6 +275,7 @@
   <action id="SmartTypeCompletion" />
   <action id="SwitchCoverage" />
   <action id="Synchronize" />
+  <action id="ToggleBookmark" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
