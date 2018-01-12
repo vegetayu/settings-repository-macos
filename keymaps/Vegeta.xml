@@ -54,6 +54,7 @@
     <keyboard-shortcut first-keystroke="meta alt divide" />
   </action>
   <action id="Console.Execute.Multiline" />
+  <action id="CopyElement" />
   <action id="Debugger.EditCustomField" />
   <action id="EditSource" />
   <action id="EditorAddOrRemoveCaret">
@@ -210,6 +211,7 @@
   <action id="MethodDown" />
   <action id="MethodHierarchy" />
   <action id="MethodUp" />
+  <action id="Move" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
   <action id="MoveStatementDown" />
@@ -260,6 +262,7 @@
   <action id="Rerun" />
   <action id="RerunTests" />
   <action id="RunInspection" />
+  <action id="SafeDelete" />
   <action id="ShowFilePath" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
