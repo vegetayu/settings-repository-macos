@@ -92,7 +92,7 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="EditorJoinLines">
-    <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="meta alt j" />
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
@@ -273,6 +273,7 @@
   <action id="ShowNavBar" />
   <action id="ShowReformatFileDialog" />
   <action id="SmartTypeCompletion" />
+  <action id="SurroundWithLiveTemplate" />
   <action id="SwitchCoverage" />
   <action id="Synchronize" />
   <action id="ToggleBookmark" />
