@@ -42,6 +42,10 @@
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="AutoIndentLines" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="CIDR.Lang.ImportsHierarchy" />
   <action id="CIDR.Lang.IntroduceTypedef" />
   <action id="CIDR.Lang.ObjC.IntroduceProperty" />
@@ -168,6 +172,10 @@
   </action>
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta g" />
