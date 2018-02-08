@@ -274,6 +274,7 @@
   <action id="SafeDelete" />
   <action id="SelectAllOccurrences" />
   <action id="SelectNextOccurrence" />
+  <action id="ShowErrorDescription" />
   <action id="ShowFilePath" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
