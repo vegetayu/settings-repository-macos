@@ -244,6 +244,7 @@
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="PreviousTemplateVariable" />
+  <action id="QuickChangeScheme" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
