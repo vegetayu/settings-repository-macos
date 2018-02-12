@@ -1,0 +1,15 @@
+<keymap version="1" name="Vegeta (MAC OS X)" parent="Mac OS X 10.5+">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
+  <action id="CopyPaths" />
+  <action id="CopyReference" />
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
+  <action id="EditorPasteSimple" />
+  <action id="Synchronize" />
+</keymap>
