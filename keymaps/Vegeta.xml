@@ -51,6 +51,8 @@
   <action id="CIDR.Lang.IntroduceTypedef" />
   <action id="CIDR.Lang.ObjC.IntroduceProperty" />
   <action id="CallHierarchy" />
+  <action id="CheckinProject" />
+  <action id="CloseActiveTab" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
@@ -174,7 +176,7 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Generate">
-    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl a" />
@@ -209,6 +211,7 @@
     <keyboard-shortcut first-keystroke="shift f2" />
   </action>
   <action id="Gsonformat" />
+  <action id="HideAllWindows" />
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="Images.ShowThumbnails" />
@@ -219,7 +222,9 @@
   <action id="IntroduceActionsGroup">
     <keyboard-shortcut first-keystroke="meta alt e" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="KotlinShellExecute" />
+  <action id="MaximizeToolWindow" />
   <action id="MethodDown" />
   <action id="MethodHierarchy" />
   <action id="MethodUp" />
@@ -274,10 +279,12 @@
   </action>
   <action id="Rerun" />
   <action id="RerunTests" />
+  <action id="RestoreDefaultLayout" />
   <action id="RunInspection" />
   <action id="SafeDelete" />
   <action id="SelectAllOccurrences" />
   <action id="SelectNextOccurrence" />
+  <action id="ShowContent" />
   <action id="ShowErrorDescription" />
   <action id="ShowFilePath" />
   <action id="ShowIntentionActions">
@@ -295,6 +302,7 @@
   </action>
   <action id="UnselectPreviousOccurrence" />
   <action id="Unwrap" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
