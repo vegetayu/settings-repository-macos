@@ -176,6 +176,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
