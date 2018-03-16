@@ -26,6 +26,9 @@
   <action id="ActivateMessagesToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
+  <action id="ActivatePreviewToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
