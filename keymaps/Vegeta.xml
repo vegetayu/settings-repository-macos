@@ -201,6 +201,10 @@
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration" />
   <action id="Gsonformat" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="HideAllWindows" />
   <action id="HighlightUsagesInFile" />
   <action id="HippieBackwardCompletion" />
