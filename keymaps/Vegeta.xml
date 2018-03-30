@@ -55,7 +55,9 @@
   <action id="CopyReference" />
   <action id="Debugger.EditCustomField" />
   <action id="EditSource" />
-  <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="shift meta button1" />
+  </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
