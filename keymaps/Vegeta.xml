@@ -228,9 +228,7 @@
   <action id="MoveElementRight" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
-  <action id="NextOccurence">
-    <keyboard-shortcut first-keystroke="f3" />
-  </action>
+  <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
@@ -244,9 +242,7 @@
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="PopupHector" />
-  <action id="PreviousOccurence">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
+  <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
