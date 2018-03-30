@@ -56,7 +56,7 @@
   <action id="Debugger.EditCustomField" />
   <action id="EditSource" />
   <action id="EditorAddOrRemoveCaret">
-    <mouse-shortcut keystroke="shift meta button1" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
