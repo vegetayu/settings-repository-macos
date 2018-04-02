@@ -54,7 +54,9 @@
   <action id="CopyPaths" />
   <action id="CopyReference" />
   <action id="Debugger.EditCustomField" />
-  <action id="EditSource" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="meta button1" />
   </action>
