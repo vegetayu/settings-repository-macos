@@ -43,7 +43,7 @@
   <action id="CheckinProject" />
   <action id="CloseActiveTab" />
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="alt q" />
+    <keyboard-shortcut first-keystroke="meta f" />
   </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
@@ -54,7 +54,9 @@
   <action id="CopyPaths" />
   <action id="CopyReference" />
   <action id="Debugger.EditCustomField" />
-  <action id="EditSource" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="meta button1" />
   </action>
@@ -127,7 +129,7 @@
     <keyboard-shortcut first-keystroke="right" />
   </action>
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLineBefore">
@@ -139,7 +141,7 @@
   <action id="EditorTextStartWithSelection" />
   <action id="EditorToggleColumnMode" />
   <action id="EditorUnSelectWord">
-    <keyboard-shortcut first-keystroke="shift alt w" />
+    <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
@@ -153,11 +155,15 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
   <action id="FindNext" />
   <action id="FindPrevious" />
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="shift meta e" />
-  </action>
+  <action id="FindUsages" />
   <action id="FindUsagesInFile" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -287,9 +293,7 @@
   <action id="ShowNavBar" />
   <action id="ShowReformatFileDialog" />
   <action id="ShowSettingsAndFindUsages" />
-  <action id="ShowUsages">
-    <keyboard-shortcut first-keystroke="meta e" />
-  </action>
+  <action id="ShowUsages" />
   <action id="SmartTypeCompletion" />
   <action id="SurroundWithLiveTemplate" />
   <action id="SwitchCoverage" />
@@ -301,6 +305,7 @@
   </action>
   <action id="UnselectPreviousOccurrence" />
   <action id="Unwrap" />
+  <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
