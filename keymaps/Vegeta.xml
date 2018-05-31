@@ -163,7 +163,9 @@
   </action>
   <action id="FindNext" />
   <action id="FindPrevious" />
-  <action id="FindUsages" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="FindUsagesInFile" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -192,9 +194,7 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="f3" />
-  </action>
+  <action id="GotoNextError" />
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
@@ -311,9 +311,7 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Vcs.UpdateProject" />
-  <action id="VcsShowNextChangeMarker">
-    <keyboard-shortcut first-keystroke="f3" />
-  </action>
+  <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
