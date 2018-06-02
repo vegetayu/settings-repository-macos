@@ -194,7 +194,9 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
-  <action id="GotoNextError" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
