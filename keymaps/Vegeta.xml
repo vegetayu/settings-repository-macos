@@ -28,6 +28,9 @@
   </action>
   <action id="ActivateVersionControlToolWindow" />
   <action id="AddToFavoritesPopup" />
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="AutoIndentLines" />
