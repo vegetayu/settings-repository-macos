@@ -8,37 +8,29 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
-  <action id="ActivateDebugToolWindow">
-    <keyboard-shortcut first-keystroke="alt 5" />
-  </action>
-  <action id="ActivateFavoritesToolWindow">
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateHierarchyToolWindow" />
+  <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
-  <action id="ActivateFindToolWindow">
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
-  <action id="ActivateHierarchyToolWindow">
-    <keyboard-shortcut first-keystroke="alt 8" />
-  </action>
-  <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
-  </action>
-  <action id="ActivateMessagesToolWindow">
-    <keyboard-shortcut first-keystroke="alt 0" />
+  <action id="ActivateMessagesToolWindow" />
+  <action id="ActivatePreviewToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
   </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
-  <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
-  </action>
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
-  <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="alt 9" />
-  </action>
+  <action id="ActivateVersionControlToolWindow" />
   <action id="AddToFavoritesPopup" />
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="AutoIndentLines" />
@@ -51,6 +43,8 @@
   <action id="CIDR.Lang.IntroduceTypedef" />
   <action id="CIDR.Lang.ObjC.IntroduceProperty" />
   <action id="CallHierarchy" />
+  <action id="CheckinProject" />
+  <action id="CloseActiveTab" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
@@ -63,7 +57,9 @@
   <action id="CopyPaths" />
   <action id="CopyReference" />
   <action id="Debugger.EditCustomField" />
-  <action id="EditSource" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="meta button1" />
   </action>
@@ -87,6 +83,10 @@
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelection" />
   <action id="EditorCutLineEnd" />
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
@@ -99,7 +99,7 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="EditorJoinLines">
-    <keyboard-shortcut first-keystroke="meta alt j" />
+    <keyboard-shortcut first-keystroke="shift alt j" />
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
@@ -169,12 +169,16 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="FindUsagesInFile" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="alt n" />
@@ -193,8 +197,12 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
-  <action id="GotoNextError" />
-  <action id="GotoPreviousError" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="GotoRelated">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
@@ -202,10 +210,14 @@
     <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
   <action id="GotoTest" />
-  <action id="GotoTypeDeclaration">
-    <keyboard-shortcut first-keystroke="shift f2" />
-  </action>
+  <action id="GotoTypeDeclaration" />
   <action id="Gsonformat" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="HideAllWindows" />
+  <action id="HighlightUsagesInFile" />
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="Images.ShowThumbnails" />
@@ -216,7 +228,9 @@
   <action id="IntroduceActionsGroup">
     <keyboard-shortcut first-keystroke="meta alt e" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="KotlinShellExecute" />
+  <action id="MaximizeToolWindow" />
   <action id="MethodDown" />
   <action id="MethodHierarchy" />
   <action id="MethodUp" />
@@ -248,20 +262,14 @@
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="f1" />
-  </action>
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="shift f1" />
-  </action>
+  <action id="QuickImplementations" />
+  <action id="QuickJavaDoc" />
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
-  <action id="RecentFiles">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
+  <action id="RecentFiles" />
   <action id="Refresh" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="alt r" />
@@ -271,10 +279,17 @@
   </action>
   <action id="Rerun" />
   <action id="RerunTests" />
+  <action id="RestoreDefaultLayout" />
   <action id="RunInspection" />
   <action id="SafeDelete" />
   <action id="SelectAllOccurrences" />
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="SelectNextOccurrence" />
+  <action id="SendEOF" />
+  <action id="ShowBookmarks" />
+  <action id="ShowContent" />
   <action id="ShowErrorDescription" />
   <action id="ShowFilePath" />
   <action id="ShowIntentionActions">
@@ -282,22 +297,29 @@
   </action>
   <action id="ShowNavBar" />
   <action id="ShowReformatFileDialog" />
+  <action id="ShowSettingsAndFindUsages" />
+  <action id="ShowUsages" />
   <action id="SmartTypeCompletion" />
   <action id="SurroundWithLiveTemplate" />
   <action id="SwitchCoverage" />
   <action id="Synchronize" />
   <action id="ToggleBookmark" />
+  <action id="ToggleBookmarkWithMnemonic" />
   <action id="TypeHierarchy">
-    <keyboard-shortcut first-keystroke="alt h" />
+    <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="UnselectPreviousOccurrence" />
   <action id="Unwrap" />
+  <action id="Vcs.Log.GoToRef" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="VcsShowNextChangeMarker" />
-  <action id="VcsShowPrevChangeMarker" />
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />

@@ -1,0 +1,13 @@
+<templateSet group="Android">
+  <template name="swit" value="switch($i$){&#10;  case 0:&#10;    break;&#10;  case 1:&#10;    break;&#10;  case 2:&#10;    break;&#10;  case 3:&#10;    break;&#10;    &#10;  default:&#10;    break;&#10;}" description="for switch case" toReformat="false" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="Toast" value="android.widget.Toast.makeText($context$, $text$, Toast.LENGTH_SHORT).show();" description="Create a new Toast" toReformat="true" toShortenFQNames="true">
+    <variable name="context" expression="variableOfType(&quot;android.content.Context&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
