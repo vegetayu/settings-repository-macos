@@ -28,6 +28,9 @@
   </action>
   <action id="ActivateVersionControlToolWindow" />
   <action id="AddToFavoritesPopup" />
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="AutoIndentLines" />
@@ -163,7 +166,9 @@
   </action>
   <action id="FindNext" />
   <action id="FindPrevious" />
-  <action id="FindUsages" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="FindUsagesInFile" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -193,7 +198,7 @@
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="f2" />
@@ -311,9 +316,7 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Vcs.UpdateProject" />
-  <action id="VcsShowNextChangeMarker">
-    <keyboard-shortcut first-keystroke="f3" />
-  </action>
+  <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
