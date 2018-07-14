@@ -98,6 +98,10 @@
           <option name="url" value="https://github.com/xiaohaibin/KotlinEnjoyLife.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/damianpetla/kotlin-dagger-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects/StudioProjects" />
