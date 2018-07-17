@@ -4,10 +4,10 @@
     <property name="created">2017-12-13T11:23:47</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2018-07-17T20:04:27</property>
+    <property name="modified">2018-07-17T20:42:02</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
