@@ -216,7 +216,7 @@
   <action id="HippieCompletion" />
   <action id="Images.ShowThumbnails" />
   <action id="ImplementMethods">
-    <keyboard-shortcut first-keystroke="alt i" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="InsertLiveTemplate" />
   <action id="IntroduceActionsGroup">
@@ -244,7 +244,7 @@
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="OverrideMethods">
-    <keyboard-shortcut first-keystroke="alt o" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="PopupHector" />
   <action id="PreviousOccurence" />
