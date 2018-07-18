@@ -43,6 +43,7 @@
   <action id="CIDR.Lang.IntroduceTypedef" />
   <action id="CIDR.Lang.ObjC.IntroduceProperty" />
   <action id="CallHierarchy" />
+  <action id="ChangeSignature" />
   <action id="CheckinProject" />
   <action id="CloseActiveTab" />
   <action id="CodeCompletion" />
@@ -161,7 +162,7 @@
   <action id="FindNext" />
   <action id="FindPrevious" />
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="shift f3" />
   </action>
   <action id="FindUsagesInFile" />
   <action id="Forward">
@@ -264,7 +265,13 @@
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
   <action id="RecentFiles" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="Rerun" />
   <action id="RerunTests" />
   <action id="RestoreDefaultLayout" />
@@ -286,7 +293,9 @@
   <action id="ShowNavBar" />
   <action id="ShowReformatFileDialog" />
   <action id="ShowSettingsAndFindUsages" />
-  <action id="ShowUsages" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="SmartTypeCompletion" />
   <action id="SurroundWithLiveTemplate" />
   <action id="SwitchCoverage" />
