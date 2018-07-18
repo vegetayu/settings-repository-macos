@@ -45,9 +45,7 @@
   <action id="CallHierarchy" />
   <action id="CheckinProject" />
   <action id="CloseActiveTab" />
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="meta f" />
-  </action>
+  <action id="CodeCompletion" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
     <keyboard-shortcut first-keystroke="meta alt divide" />
@@ -78,7 +76,7 @@
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCompleteStatement">
-    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelection" />
@@ -90,17 +88,19 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
-  <action id="EditorDeleteToWordEnd" />
-  <action id="EditorDeleteToWordStart" />
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="meta delete" />
+  </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
-  <action id="EditorJoinLines">
-    <keyboard-shortcut first-keystroke="shift alt j" />
-  </action>
+  <action id="EditorJoinLines" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
@@ -157,12 +157,6 @@
   <action id="FileChooser.GotoProject" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt s" />
-  </action>
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
-  <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="FindNext" />
   <action id="FindPrevious" />
@@ -271,12 +265,6 @@
   <action id="RecentChanges" />
   <action id="RecentFiles" />
   <action id="Refresh" />
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
-  <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="shift alt r" />
-  </action>
   <action id="Rerun" />
   <action id="RerunTests" />
   <action id="RestoreDefaultLayout" />
@@ -310,6 +298,7 @@
   </action>
   <action id="UnselectPreviousOccurrence" />
   <action id="Unwrap" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowMessageHistory">
