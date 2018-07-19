@@ -194,12 +194,8 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
+  <action id="GotoNextError" />
+  <action id="GotoPreviousError" />
   <action id="GotoRelated">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
@@ -277,6 +273,9 @@
   <action id="Rerun" />
   <action id="RerunTests" />
   <action id="RestoreDefaultLayout" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="RunInspection" />
   <action id="SafeDelete" />
   <action id="SelectAllOccurrences" />
