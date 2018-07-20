@@ -4,7 +4,7 @@
     <property name="created">2017-12-13T11:23:47</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2018-07-20T10:20:48</property>
+    <property name="modified">2018-07-20T11:23:59</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -19,6 +19,11 @@
     <option name="JAVA_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="99cc" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="ccb63e" />
       </value>
     </option>
     <option name="KOTLIN_BLOCK_COMMENT">
