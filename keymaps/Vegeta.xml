@@ -44,6 +44,7 @@
   <action id="CIDR.Lang.ObjC.IntroduceProperty" />
   <action id="CallHierarchy" />
   <action id="ChangeSignature" />
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject" />
   <action id="CloseActiveTab" />
   <action id="CodeCompletion">
@@ -145,6 +146,9 @@
   <action id="EditorTextEndWithSelection" />
   <action id="EditorTextStart" />
   <action id="EditorTextStartWithSelection" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
   <action id="EditorToggleColumnMode" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift meta e" />
