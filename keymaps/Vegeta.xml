@@ -44,6 +44,7 @@
   <action id="CIDR.Lang.ObjC.IntroduceProperty" />
   <action id="CallHierarchy" />
   <action id="ChangeSignature" />
+  <action id="ChangeTypeSignature" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject" />
   <action id="CloseActiveTab" />
@@ -272,11 +273,14 @@
   </action>
   <action id="Refresh" />
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
   <action id="Rerun" />
   <action id="RerunTests" />
   <action id="RestoreDefaultLayout" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -302,6 +306,7 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="SmartTypeCompletion" />
+  <action id="SurroundWith" />
   <action id="SurroundWithLiveTemplate" />
   <action id="SwitchCoverage" />
   <action id="Synchronize" />
