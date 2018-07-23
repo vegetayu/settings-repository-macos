@@ -8,25 +8,14 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
-  <action id="ActivateDebugToolWindow" />
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateFindToolWindow" />
   <action id="ActivateHierarchyToolWindow" />
-  <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="alt 2" />
-  </action>
   <action id="ActivateMessagesToolWindow" />
   <action id="ActivatePreviewToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
   </action>
-  <action id="ActivateRunToolWindow" />
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
-  <action id="ActivateVersionControlToolWindow" />
   <action id="AddToFavoritesPopup" />
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
@@ -162,6 +151,7 @@
   <action id="ExpressionTypeInfo" />
   <action id="ExternalJavaDoc" />
   <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt s" />
