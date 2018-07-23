@@ -276,14 +276,11 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
-  <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
   <action id="RunInspection" />
   <action id="SafeDelete" />
   <action id="SelectAllOccurrences" />
   <action id="SelectIn">
-    <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="meta f1" />
   </action>
   <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
