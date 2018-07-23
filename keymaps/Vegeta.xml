@@ -215,7 +215,9 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="HideAllWindows" />
-  <action id="HighlightUsagesInFile" />
+  <action id="HighlightUsagesInFile">
+    <keyboard-shortcut first-keystroke="meta f3" />
+  </action>
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="Images.ShowThumbnails" />
