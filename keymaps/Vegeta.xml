@@ -4,6 +4,7 @@
   </action>
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="delete" />
   </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
@@ -31,7 +32,9 @@
   <action id="CIDR.Lang.ImportsHierarchy" />
   <action id="CIDR.Lang.IntroduceTypedef" />
   <action id="CIDR.Lang.ObjC.IntroduceProperty" />
-  <action id="CallHierarchy" />
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="meta f3" />
+  </action>
   <action id="ChangeSignature" />
   <action id="ChangeTypeSignature" />
   <action id="ChangesView.UnshelveSilently" />
@@ -52,8 +55,9 @@
   <action id="CopyPaths" />
   <action id="CopyReference" />
   <action id="Debugger.EditCustomField" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f1" />
+  <action id="EditSource" />
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="delete" />
   </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="meta button1" />
@@ -156,9 +160,6 @@
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
-  <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
   <action id="FindNext" />
   <action id="FindPrevious" />
   <action id="FindUsages">
@@ -201,16 +202,16 @@
     <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
   <action id="GotoTest" />
-  <action id="GotoTypeDeclaration" />
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift f2" />
+  </action>
   <action id="Gsonformat" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="HideAllWindows" />
-  <action id="HighlightUsagesInFile">
-    <keyboard-shortcut first-keystroke="meta f3" />
-  </action>
+  <action id="HighlightUsagesInFile" />
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="Images.ShowThumbnails" />
@@ -255,8 +256,12 @@
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
-  <action id="QuickImplementations" />
-  <action id="QuickJavaDoc" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift f1" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
@@ -305,10 +310,11 @@
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="TypeHierarchy">
-    <keyboard-shortcut first-keystroke="meta 5" />
+    <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="UnselectPreviousOccurrence" />
   <action id="Unwrap" />
+  <action id="Vcs.EditSource" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.QuickListPopupAction" />
@@ -322,6 +328,7 @@
   </action>
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.JumpToSource" />
   <action id="XDebugger.SetValue" />
   <action id="tasks.goto" />
 </keymap>
