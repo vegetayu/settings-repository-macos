@@ -11,8 +11,8 @@
   </action>
   <action id="ActivateHierarchyToolWindow" />
   <action id="ActivateMessagesToolWindow" />
-  <action id="ActivatePreviewToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
