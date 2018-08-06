@@ -66,6 +66,7 @@
     </option>
   </JavaCodeStyleSettings>
   <JetCodeStyleSettings>
+    <option name="CONTINUATION_INDENT_IN_ARGUMENT_LISTS" value="false" />
     <option name="CONTINUATION_INDENT_FOR_CHAINED_CALLS" value="false" />
   </JetCodeStyleSettings>
   <Objective-C-extensions>
@@ -557,7 +558,6 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="EXTENDS_LIST_WRAP" value="1" />
