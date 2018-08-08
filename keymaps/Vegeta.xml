@@ -230,6 +230,9 @@
   </action>
   <action id="JumpToLastWindow" />
   <action id="KotlinShellExecute" />
+  <action id="Macro.delete author">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+  </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodDown" />
   <action id="MethodHierarchy" />
