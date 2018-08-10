@@ -38,7 +38,9 @@
   <action id="ChangeSignature" />
   <action id="ChangeTypeSignature" />
   <action id="ChangesView.UnshelveSilently" />
-  <action id="CheckinProject" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
