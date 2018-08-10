@@ -332,7 +332,9 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="Vcs.UpdateProject" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="f2" />
