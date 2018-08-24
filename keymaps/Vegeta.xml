@@ -80,6 +80,7 @@
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="meta space" />
   </action>
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelection" />
@@ -314,7 +315,9 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="SmartTypeCompletion" />
-  <action id="SurroundWith" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
   <action id="SurroundWithLiveTemplate" />
   <action id="SwitchCoverage" />
   <action id="Synchronize" />
