@@ -11,8 +11,11 @@
   </action>
   <action id="ActivateHierarchyToolWindow" />
   <action id="ActivateMessagesToolWindow" />
-  <action id="ActivateTerminalToolWindow">
+  <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
