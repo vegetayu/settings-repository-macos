@@ -339,9 +339,7 @@
     <keyboard-shortcut first-keystroke="shift meta y" />
   </action>
   <action id="VcsShowNextChangeMarker" />
-  <action id="VcsShowPrevChangeMarker">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
+  <action id="VcsShowPrevChangeMarker" />
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.JumpToSource" />
