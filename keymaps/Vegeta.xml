@@ -277,9 +277,6 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
-  <action id="RearrangeCode">
-    <keyboard-shortcut first-keystroke="meta alt k" />
-  </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
   <action id="RecentFiles" />
