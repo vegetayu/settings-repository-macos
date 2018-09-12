@@ -10,4 +10,15 @@
     <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="fold" value="// &lt;editor-fold desc=&quot;$desc$&quot;&gt;" description="editor-fold start" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="/fold" value="// &lt;/editor-fold&gt;" description="editor-fold end" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
