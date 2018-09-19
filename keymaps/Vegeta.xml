@@ -11,6 +11,9 @@
   </action>
   <action id="ActivateHierarchyToolWindow" />
   <action id="ActivateMessagesToolWindow" />
+  <action id="ActivatePreviewToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
