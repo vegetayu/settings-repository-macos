@@ -1,0 +1,10 @@
+<templateSet group="Kotlin">
+  <template name="newIns" value="fun newInstance($args$):$fragment$ {&#10;    val args = android.os.Bundle()&#10;    $addArgs$&#10;    val fragment = $fragment$()&#10;    fragment.setArguments(args)&#10;    return fragment&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="fragment" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="addArgs" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>
