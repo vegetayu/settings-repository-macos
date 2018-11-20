@@ -282,7 +282,9 @@
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
-  <action id="RecentFiles" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
