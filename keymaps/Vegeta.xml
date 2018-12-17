@@ -106,7 +106,6 @@
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
@@ -116,7 +115,6 @@
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="EditorLineEnd" />
   <action id="EditorLineEndWithSelection" />
@@ -144,7 +142,6 @@
   <action id="EditorPreviousWordWithSelection" />
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta e" />
@@ -166,7 +163,6 @@
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EmmetNextEditPoint">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
@@ -286,9 +282,7 @@
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
-  <action id="RecentFiles">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
+  <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>

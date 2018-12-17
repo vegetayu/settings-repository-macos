@@ -127,23 +127,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/renjianan/RecyclerBanner.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/scwang90/SmartRefreshLayout.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/crazyandcoder/citypicker.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/wasabeef/richeditor-android.git" />
+          <option name="url" value="https://github.com/dreamzeng/for-love.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/StudioProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/WebstormProjects" />
   </component>
 </application>
