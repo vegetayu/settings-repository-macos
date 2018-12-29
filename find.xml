@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Module 'app'" />
-    <option name="defaultScopeName" value="Module 'app'" />
+    <option name="customScope" value="Module 'repo'" />
+    <option name="defaultScopeName" value="Module 'repo'" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'app'" />
+    <option name="SEARCH_SCOPE" value="Module 'repo'" />
   </component>
 </application>
