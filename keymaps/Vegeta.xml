@@ -280,6 +280,9 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="RebuildGradleProject">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+  </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
   <action id="RecentFiles" />
