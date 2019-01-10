@@ -9,4 +9,24 @@
     <variable name="context" expression="variableOfType(&quot;android.content.Context&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
+  <template name="fold" value="// &lt;editor-fold desc=&quot;$desc$&quot;&gt;" description="editor-fold start" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="foldend" value="// &lt;/editor-fold&gt;" description="editor-fold end" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="logv" value="android.util.Log.v(TAG,&quot;$msg$&quot;)" description="Log.v()" toReformat="false" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>

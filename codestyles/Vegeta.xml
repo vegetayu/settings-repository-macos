@@ -130,16 +130,6 @@
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
     <arrangement>
-      <groups>
-        <group>
-          <type>GETTERS_AND_SETTERS</type>
-          <order>KEEP</order>
-        </group>
-        <group>
-          <type>OVERRIDDEN_METHODS</type>
-          <order>KEEP</order>
-        </group>
-      </groups>
       <rules>
         <section>
           <rule>
@@ -483,64 +473,11 @@
           <rule>
             <match>
               <AND>
-                <NAME>.*:layout_width</NAME>
-                <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
-              </AND>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <NAME>.*:layout_height</NAME>
-                <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
-              </AND>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <NAME>.*:layout_.*</NAME>
-                <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
-              </AND>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <NAME>.*:width</NAME>
-                <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
-              </AND>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <NAME>.*:height</NAME>
-                <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
-              </AND>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
                 <NAME>.*</NAME>
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
-            <order>BY_NAME</order>
+            <order>ANDROID_ATTRIBUTE_ORDER</order>
           </rule>
         </section>
         <section>
@@ -561,7 +498,7 @@
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="EXTENDS_LIST_WRAP" value="1" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />

@@ -11,8 +11,14 @@
   </action>
   <action id="ActivateHierarchyToolWindow" />
   <action id="ActivateMessagesToolWindow" />
-  <action id="ActivateTerminalToolWindow">
+  <action id="ActivatePreviewToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
@@ -80,6 +86,7 @@
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="meta space" />
   </action>
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelection" />
@@ -273,8 +280,8 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
-  <action id="RearrangeCode">
-    <keyboard-shortcut first-keystroke="meta alt k" />
+  <action id="RebuildGradleProject">
+    <keyboard-shortcut first-keystroke="meta alt b" />
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
@@ -314,7 +321,9 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="SmartTypeCompletion" />
-  <action id="SurroundWith" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
   <action id="SurroundWithLiveTemplate" />
   <action id="SwitchCoverage" />
   <action id="Synchronize" />
@@ -336,9 +345,7 @@
     <keyboard-shortcut first-keystroke="shift meta y" />
   </action>
   <action id="VcsShowNextChangeMarker" />
-  <action id="VcsShowPrevChangeMarker">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
+  <action id="VcsShowPrevChangeMarker" />
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.JumpToSource" />

@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="yuluyao" type="PLAIN_TEXT" />
+      <mapping pattern="channel" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
