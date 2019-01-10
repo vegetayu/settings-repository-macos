@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="renameview">
+      <action id="EditorSelectWord" />
+      <action id="RenameElement" />
+      <action id="EditorPaste" />
+      <action id="NextTemplateVariable" />
+    </macro>
+  </component>
+</application>
