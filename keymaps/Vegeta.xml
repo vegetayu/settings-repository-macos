@@ -20,6 +20,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
+  <action id="ActivateThemePreviewToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt 8" />
+  </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
