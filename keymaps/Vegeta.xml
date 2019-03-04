@@ -356,5 +356,8 @@
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.JumpToSource" />
   <action id="XDebugger.SetValue" />
+  <action id="com.azoft.json2dart.JsonToDartAction.inNew">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="tasks.goto" />
 </keymap>
