@@ -5,5 +5,9 @@
       <shortuct text="DOWN" />
       <shortuct text="ENTER" />
     </macro>
+    <macro name="select in 1">
+      <action id="SelectIn" />
+      <typing text-keycode="49:0">1</typing>
+    </macro>
   </component>
 </application>
