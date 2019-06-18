@@ -1,9 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="paste2">
-      <action id="PasteMultiple" />
-      <shortuct text="DOWN" />
-      <shortuct text="ENTER" />
-    </macro>
-  </component>
-</application>
