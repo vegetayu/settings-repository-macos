@@ -327,7 +327,6 @@
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="ShowNavBar" />
-  <action id="ShowReformatFileDialog" />
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="f3" />
@@ -362,6 +361,12 @@
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.JumpToSource" />
   <action id="XDebugger.SetValue" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="com.azoft.json2dart.JsonToDartAction.inNew">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>

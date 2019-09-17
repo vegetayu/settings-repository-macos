@@ -182,6 +182,14 @@
           <option name="url" value="https://github.com/AgoraIO/Flutter-RTM.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://119.23.218.18:9090" />
+          <option name="userName" value="yuly" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="yuluyao" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects/FlutterProjects" />
