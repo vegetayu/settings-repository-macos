@@ -63,7 +63,9 @@
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="CopyElement" />
-  <action id="CopyPaths" />
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
   <action id="CopyReference" />
   <action id="Debugger.EditCustomField" />
   <action id="EditSource" />
@@ -240,6 +242,7 @@
   <action id="IntroduceActionsGroup">
     <keyboard-shortcut first-keystroke="meta alt e" />
   </action>
+  <action id="IntroduceConstant" />
   <action id="JumpToLastWindow" />
   <action id="KotlinShellExecute" />
   <action id="Macro.delete author">
