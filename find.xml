@@ -1,14 +1,16 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'app'" />
-    <option name="defaultScopeName" value="Module 'app'" />
-    <option name="SEARCH_SCOPE" value="Module 'app'" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*.gradle</mask>
-    <mask>*.java</mask>
+    <mask>*.css</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
   </component>
 </application>

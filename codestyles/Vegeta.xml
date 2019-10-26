@@ -27,7 +27,6 @@
     </value>
   </option>
   <AndroidXmlCodeStyleSettings>
-    <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
     <option name="LAYOUT_SETTINGS">
       <value>
         <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
@@ -68,7 +67,6 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="JAVA">
-    <option name="RIGHT_MARGIN" value="300" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_RESOURCES" value="false" />
@@ -82,7 +80,6 @@
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
     <option name="TERNARY_OPERATION_WRAP" value="1" />
-    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
     <option name="FOR_STATEMENT_WRAP" value="1" />
@@ -359,6 +356,7 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
+    <option name="FORCE_REARRANGE_MODE" value="2" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
     </indentOptions>
@@ -369,7 +367,6 @@
             <match>
               <AND>
                 <NAME>xmlns:android</NAME>
-                <XML_ATTRIBUTE />
                 <XML_NAMESPACE>^$</XML_NAMESPACE>
               </AND>
             </match>
@@ -380,7 +377,6 @@
             <match>
               <AND>
                 <NAME>xmlns:.*</NAME>
-                <XML_ATTRIBUTE />
                 <XML_NAMESPACE>^$</XML_NAMESPACE>
               </AND>
             </match>
@@ -392,7 +388,6 @@
             <match>
               <AND>
                 <NAME>.*:id</NAME>
-                <XML_ATTRIBUTE />
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
@@ -403,7 +398,6 @@
             <match>
               <AND>
                 <NAME>.*:name</NAME>
-                <XML_ATTRIBUTE />
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
@@ -414,7 +408,6 @@
             <match>
               <AND>
                 <NAME>name</NAME>
-                <XML_ATTRIBUTE />
                 <XML_NAMESPACE>^$</XML_NAMESPACE>
               </AND>
             </match>
@@ -425,7 +418,6 @@
             <match>
               <AND>
                 <NAME>style</NAME>
-                <XML_ATTRIBUTE />
                 <XML_NAMESPACE>^$</XML_NAMESPACE>
               </AND>
             </match>
@@ -436,7 +428,6 @@
             <match>
               <AND>
                 <NAME>.*</NAME>
-                <XML_ATTRIBUTE />
                 <XML_NAMESPACE>^$</XML_NAMESPACE>
               </AND>
             </match>
@@ -448,7 +439,6 @@
             <match>
               <AND>
                 <NAME>.*</NAME>
-                <XML_ATTRIBUTE />
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
@@ -460,7 +450,6 @@
             <match>
               <AND>
                 <NAME>.*</NAME>
-                <XML_ATTRIBUTE />
                 <XML_NAMESPACE>.*</XML_NAMESPACE>
               </AND>
             </match>
