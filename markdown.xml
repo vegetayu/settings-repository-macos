@@ -1,6 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings">
     <MarkdownCssSettings StylesheetUri="jar:file:/Users/yuluyao/Library/Application%20Support/AndroidStudio3.0/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
-    <MarkdownPreviewSettings AutoScrollPreview="false" />
+    <MarkdownPreviewSettings DefaultSplitLayout="Show editor only" AutoScrollPreview="false" />
   </component>
 </application>
