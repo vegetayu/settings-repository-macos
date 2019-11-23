@@ -273,7 +273,6 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift meta alt up" />
   </action>
-  <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
@@ -290,7 +289,6 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="PopupHector" />
-  <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
