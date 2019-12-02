@@ -63,7 +63,9 @@
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="CopyElement" />
-  <action id="CopyPaths" />
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
   <action id="CopyReference" />
   <action id="Debugger.EditCustomField" />
   <action id="EditSource" />
@@ -80,10 +82,10 @@
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="shift meta up" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="shift meta down" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
@@ -240,6 +242,7 @@
   <action id="IntroduceActionsGroup">
     <keyboard-shortcut first-keystroke="meta alt e" />
   </action>
+  <action id="IntroduceConstant" />
   <action id="JumpToLastWindow" />
   <action id="KotlinShellExecute" />
   <action id="Macro.delete author">
@@ -258,9 +261,18 @@
   <action id="Move" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
-  <action id="MoveStatementDown" />
-  <action id="MoveStatementUp" />
-  <action id="NextOccurence" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift meta alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift meta alt up" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
@@ -277,7 +289,6 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="PopupHector" />
-  <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
