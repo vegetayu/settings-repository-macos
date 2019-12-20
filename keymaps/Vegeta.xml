@@ -90,7 +90,6 @@
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCompleteStatement">
-    <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
   <action id="EditorContextInfo" />
@@ -147,6 +146,7 @@
   <action id="EditorPreviousWordWithSelection" />
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta e" />
