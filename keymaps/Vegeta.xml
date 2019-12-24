@@ -50,6 +50,9 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -304,7 +307,7 @@
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="RebuildGradleProject">
-    <keyboard-shortcut first-keystroke="meta alt b" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
