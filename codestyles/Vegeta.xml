@@ -470,6 +470,7 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
+    <option name="RIGHT_MARGIN" value="300" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <option name="EXTENDS_LIST_WRAP" value="1" />
