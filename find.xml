@@ -16,5 +16,6 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
