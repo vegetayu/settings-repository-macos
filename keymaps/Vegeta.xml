@@ -198,7 +198,7 @@
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="button2" />
@@ -206,13 +206,13 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift alt n" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
@@ -222,7 +222,7 @@
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift alt m" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
