@@ -6,6 +6,7 @@
         <option value="/usr/local/Cellar/go/1.12.9/libexec" />
         <option value="/usr/local/Cellar/go/1.13.4/libexec" />
         <option value="/usr/local/Cellar/go/1.13/libexec" />
+        <option value="/usr/local/Cellar/go/1.14/libexec" />
       </set>
     </sdk-path>
   </component>
