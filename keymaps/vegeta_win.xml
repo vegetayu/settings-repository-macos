@@ -1,15 +1,24 @@
 <keymap version="1" name="vegeta_win" parent="$default">
+  <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
+  <action id="CIDR.Lang.IntroduceDefine" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="FindNext" />
   <action id="FindPrevious" />
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="shift f3" />
   </action>
   <action id="FindUsagesInFile" />
   <action id="FindWordAtCaret" />
-  <action id="ShowSettingsAndFindUsages">
-    <keyboard-shortcut first-keystroke="shift f3" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="ShowSettingsAndFindUsages" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
 </keymap>
