@@ -1,9 +1,17 @@
 <keymap version="1" name="vegeta_win" parent="$default">
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="CIDR.Lang.IntroduceDefine" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="EditorUnSelectWord" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
