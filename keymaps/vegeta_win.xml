@@ -1,8 +1,12 @@
 <keymap version="1" name="vegeta_win" parent="$default">
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="CIDR.Lang.IntroduceDefine" />
   <action id="CloseActiveTab" />
@@ -35,6 +39,13 @@
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
   <action id="tasks.close" />
 </keymap>
