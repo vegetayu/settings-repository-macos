@@ -9,17 +9,39 @@
   <action id="ActivateTODOToolWindow" />
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="CIDR.Lang.IntroduceDefine" />
+  <action id="ChangesView.Diff" />
+  <action id="ChangesView.Rename" />
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="EditorUnSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
@@ -33,19 +55,32 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Rename" />
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="SmartTypeCompletion" />
+  <action id="SurroundWithLiveTemplate" />
   <action id="UpdateRunningApplication" />
+  <action id="XDebugger.CopyWatch" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="openAssertEqualsDiff" />
   <action id="tasks.close" />
 </keymap>
