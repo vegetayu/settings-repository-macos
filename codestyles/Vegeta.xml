@@ -70,7 +70,7 @@
     <option name="RIGHT_MARGIN" value="160" />
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
-    <option name="RIGHT_MARGIN" value="80" />
+    <option name="RIGHT_MARGIN" value="200" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_RESOURCES" value="false" />
