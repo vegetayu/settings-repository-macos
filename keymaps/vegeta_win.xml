@@ -73,6 +73,9 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="f3" />
