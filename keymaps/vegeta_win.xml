@@ -1,8 +1,12 @@
 <keymap version="1" name="vegeta_win" parent="$default">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
   <action id="ActivateFindToolWindow" />
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
+  <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
@@ -10,6 +14,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
+  <action id="AddToFavoritesPopup" />
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="CIDR.Lang.IntroduceDefine" />
   <action id="ChangesView.Diff" />
@@ -20,6 +25,14 @@
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl alt divide" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="alt slash" />
+    <keyboard-shortcut first-keystroke="alt divide" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
@@ -43,6 +56,7 @@
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
+  <action id="EditorPasteSimple" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
@@ -58,8 +72,21 @@
   </action>
   <action id="FindUsagesInFile" />
   <action id="FindWordAtCaret" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
@@ -67,6 +94,7 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="RecentChanges" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
@@ -81,7 +109,13 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="SmartTypeCompletion" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="SurroundWithLiveTemplate" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="XDebugger.CopyWatch" />
   <action id="android.deploy.ApplyChanges">
@@ -90,6 +124,7 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="context.save" />
   <action id="openAssertEqualsDiff" />
   <action id="tasks.close" />
 </keymap>
