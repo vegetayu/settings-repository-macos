@@ -38,6 +38,7 @@
     <keyboard-shortcut first-keystroke="alt divide" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="ContextHelp" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
   <action id="Diff.ShowDiff" />
