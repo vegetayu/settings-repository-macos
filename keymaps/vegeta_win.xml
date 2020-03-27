@@ -17,6 +17,7 @@
   <action id="AddToFavoritesPopup" />
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
+  <action id="AutoIndentLines" />
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="CIDR.Lang.IntroduceDefine" />
   <action id="ChangesView.Diff" />
@@ -92,6 +93,9 @@
   </action>
   <action id="GotoNextError" />
   <action id="GotoPreviousError" />
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
@@ -99,6 +103,10 @@
     <keyboard-shortcut first-keystroke="shift f2" />
   </action>
   <action id="HippieCompletion" />
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
+  <action id="OverrideMethods" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
