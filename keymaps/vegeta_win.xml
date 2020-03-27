@@ -15,6 +15,8 @@
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="CIDR.Lang.IntroduceDefine" />
   <action id="ChangesView.Diff" />
@@ -35,15 +37,16 @@
     <keyboard-shortcut first-keystroke="alt divide" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Debugger.EditArrayFilter" />
+  <action id="Debugger.EditCustomField" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
+  <action id="EditSource" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="button2" />
   </action>
@@ -72,8 +75,14 @@
   </action>
   <action id="FindUsagesInFile" />
   <action id="FindWordAtCaret" />
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift alt f" />
@@ -81,9 +90,11 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
+  <action id="GotoNextError" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
+  <action id="GotoTypeDeclaration" />
   <action id="HippieCompletion" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
@@ -118,6 +129,8 @@
   </action>
   <action id="UpdateRunningApplication" />
   <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
