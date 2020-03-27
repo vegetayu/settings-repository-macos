@@ -41,7 +41,9 @@
   <action id="ContextHelp" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
-  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditSource" />
   <action id="EditorAddOrRemoveCaret">
