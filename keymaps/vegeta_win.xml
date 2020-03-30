@@ -47,6 +47,7 @@
   <action id="ContextHelp" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
+  <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -56,6 +57,12 @@
     <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="button2" />
@@ -115,6 +122,9 @@
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
+  <action id="IncrementWindowHeight" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="OverrideMethods" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
@@ -129,6 +139,8 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename" />
