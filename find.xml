@@ -3,7 +3,6 @@
     <option name="customScope" value="Project 'sportmoneyappcode'" />
     <option name="defaultScopeName" value="Project 'sportmoneyappcode'" />
     <option name="SEARCH_SCOPE" value="Project 'sportmoneyappcode'" />
-    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
