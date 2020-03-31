@@ -22,6 +22,7 @@
   <action id="CIDR.Lang.IntroduceDefine" />
   <action id="ChangesView.Diff" />
   <action id="ChangesView.Rename" />
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt y" />
   </action>
@@ -80,6 +81,9 @@
   <action id="EditorPasteSimple" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
