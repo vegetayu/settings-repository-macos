@@ -61,9 +61,6 @@
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
   <action id="DecrementWindowHeight" />
-  <action id="Diff.ShowDiff">
-    <keyboard-shortcut first-keystroke="alt d" />
-  </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditSource" />
@@ -176,8 +173,12 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+  </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename" />
+  <action id="ShowErrorDescription" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
