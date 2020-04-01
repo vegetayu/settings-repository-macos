@@ -27,6 +27,7 @@
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="AutoIndentLines" />
+  <action id="CIDR.Debugger.ShowInMemoryView" />
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="CIDR.Lang.IntroduceDefine" />
   <action id="ChangesView.Diff" />
@@ -55,6 +56,7 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
   <action id="ContextHelp" />
   <action id="CopyPaths" />
   <action id="CopyReference" />
@@ -63,6 +65,7 @@
   <action id="DecrementWindowHeight" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditSource" />
   <action id="EditorAddOrRemoveCaret">
@@ -92,6 +95,7 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
@@ -146,6 +150,7 @@
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift f2" />
   </action>
+  <action id="Groovy.Shell.Execute" />
   <action id="HippieCompletion" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
@@ -154,6 +159,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="KotlinShellExecute" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
@@ -186,6 +192,9 @@
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename" />
   <action id="ShowErrorDescription" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
@@ -207,6 +216,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
