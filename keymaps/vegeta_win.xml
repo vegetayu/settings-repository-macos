@@ -112,7 +112,9 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
-  <action id="GotoNextError" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
   <action id="GotoPreviousError" />
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="alt u" />
