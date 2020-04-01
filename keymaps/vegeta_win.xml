@@ -80,7 +80,7 @@
   </action>
   <action id="EditorPasteSimple" />
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
@@ -146,6 +146,7 @@
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="RecentChanges" />
+  <action id="RecentFiles" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
@@ -155,7 +156,7 @@
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename" />
   <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="alt comma" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages">
@@ -166,10 +167,14 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="SurroundWithLiveTemplate" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
