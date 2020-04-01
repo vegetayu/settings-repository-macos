@@ -2,17 +2,26 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="ctrl 6" />
   </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="alt 3" />
+    <keyboard-shortcut first-keystroke="ctrl 3" />
   </action>
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="ctrl 7" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 9" />
   </action>
   <action id="AddToFavoritesPopup" />
   <action id="Arrangement.Alias.Rule.Edit" />
@@ -56,6 +65,7 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="EditSource" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
@@ -89,6 +99,8 @@
   </action>
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
@@ -102,6 +114,16 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="GotoBookmark0" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="GotoBookmark4" />
+  <action id="GotoBookmark5" />
+  <action id="GotoBookmark6" />
+  <action id="GotoBookmark7" />
+  <action id="GotoBookmark8" />
+  <action id="GotoBookmark9" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
