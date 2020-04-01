@@ -61,6 +61,7 @@
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
   <action id="DecrementWindowHeight" />
+  <action id="Diff.FocusOppositePane" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditSource" />
@@ -69,10 +70,10 @@
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
@@ -153,6 +154,12 @@
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="OverrideMethods" />
@@ -191,6 +198,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="SurroundWithLiveTemplate" />
+  <action id="Switcher" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt 8" />
