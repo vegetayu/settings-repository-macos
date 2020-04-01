@@ -24,7 +24,7 @@
   <action id="ChangesView.Rename" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject">
-    <keyboard-shortcut first-keystroke="alt y" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="CloseActiveTab" />
   <action id="CloseAllEditorsButActive">
@@ -34,7 +34,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="alt g" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
@@ -47,6 +47,8 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="ContextHelp" />
+  <action id="CopyPaths" />
+  <action id="CopyReference" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
   <action id="DecrementWindowHeight" />
@@ -101,17 +103,16 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="shift alt c" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift alt f" />
-  </action>
+  <action id="GotoFile" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
+  <action id="GotoLine" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
@@ -120,7 +121,7 @@
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift alt s" />
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift f2" />
