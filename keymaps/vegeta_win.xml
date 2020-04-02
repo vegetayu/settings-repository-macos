@@ -35,6 +35,7 @@
   <action id="CIDR.Lang.IntroduceDefine" />
   <action id="ChangesView.Diff" />
   <action id="ChangesView.Rename" />
+  <action id="ChangesView.SetDefault" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -83,6 +84,9 @@
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="button2" />
