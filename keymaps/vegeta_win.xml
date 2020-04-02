@@ -137,7 +137,9 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="GotoFile" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
