@@ -25,7 +25,7 @@
   </action>
   <action id="AddToFavoritesPopup" />
   <action id="Android.SyncProject">
-    <keyboard-shortcut first-keystroke="ctrl f7" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
@@ -39,6 +39,10 @@
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="ChooseRunConfiguration" />
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
   <action id="CloseActiveTab" />
   <action id="CloseAllEditorsButActive">
@@ -188,6 +192,9 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="RebuildGradleProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
   <action id="RecentChanges" />
   <action id="RecentFiles" />
   <action id="RenameElement">
@@ -195,6 +202,9 @@
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="ctrl f1" />
@@ -205,6 +215,7 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="ShowProjectStructureSettings" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
