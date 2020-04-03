@@ -231,7 +231,7 @@
   <action id="Switcher" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TypeHierarchy">
-    <keyboard-shortcut first-keystroke="alt 8" />
+    <keyboard-shortcut first-keystroke="ctrl 8" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.ShowMessageHistory">
