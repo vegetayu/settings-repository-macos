@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'sportmoneyappcode'" />
-    <option name="defaultScopeName" value="Project 'sportmoneyappcode'" />
-    <option name="SEARCH_SCOPE" value="Project 'sportmoneyappcode'" />
+    <option name="customScope" value="Module 'lib_public'" />
+    <option name="defaultScopeName" value="Module 'lib_public'" />
+    <option name="SEARCH_SCOPE" value="Module 'lib_public'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
