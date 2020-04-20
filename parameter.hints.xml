@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="android.content.Intent.getStringExtra(name)" />
+      </blacklist>
+    </blacklists>
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
+  </component>
+</application>
