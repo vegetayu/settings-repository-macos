@@ -228,9 +228,6 @@
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift f2" />
   </action>
-  <action id="Gradle.ToggleOfflineAction">
-    <keyboard-shortcut first-keystroke="ctrl meta o" />
-  </action>
   <action id="Gsonformat" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
