@@ -301,10 +301,10 @@
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
   <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="shift f1" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="shift f1" />
   </action>
   <action id="RebuildGradleProject">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
