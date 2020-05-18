@@ -325,7 +325,9 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
-  <action id="RunInspection" />
+  <action id="RunInspection">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
   <action id="SafeDelete" />
   <action id="SelectAllOccurrences" />
   <action id="SelectIn">
