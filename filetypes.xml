@@ -3,14 +3,12 @@
     <extensionMap>
       <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
+      <mapping pattern="odir" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping pattern="yuluyao" type="PLAIN_TEXT" />
-      <mapping pattern="odir" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
-      <mapping ext="html" type="Twig" />
-      <mapping ext="md" type="Twig" />
-      <removed_mapping ext="md" approved="true" type="Markdown" />
-      <removed_mapping ext="html" approved="true" type="HTML" />
+      <removed_mapping ext="md" approved="true" type="Twig" />
+      <removed_mapping ext="html" approved="true" type="Twig" />
     </extensionMap>
   </component>
 </application>
