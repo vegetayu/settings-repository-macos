@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Kotlin">
         <added pattern="android.content.Intent.getStringExtra(name)" />
+        <added pattern="android.graphics.Canvas.drawArc(oval,startAngle,sweepAngle,useCenter,paint)" />
       </blacklist>
     </blacklists>
   </component>
