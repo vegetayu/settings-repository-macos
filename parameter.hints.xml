@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="android.content.Intent.getStringExtra(name)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
