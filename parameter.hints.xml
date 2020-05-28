@@ -6,6 +6,7 @@
         <added pattern="android.graphics.Canvas.drawArc(oval,startAngle,sweepAngle,useCenter,paint)" />
         <added pattern="com.bumptech.glide.load.resource.bitmap.RoundedCorners(roundingRadius)" />
         <added pattern="com.fz.code.repo.viewmodel.AdsViewModel.getCacheAdsSwitch(interfaceTimeKey,interfaceDataKey,adsCode,channel,gdtVersion,adsSwitchListener)" />
+        <added pattern="android.animation.ObjectAnimator.ofFloat(target,propertyName,values)" />
       </blacklist>
     </blacklists>
   </component>
