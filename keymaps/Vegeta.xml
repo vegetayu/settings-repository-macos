@@ -316,12 +316,10 @@
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
   <action id="RecentFiles" />
-  <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="meta t" />
-  </action>
+  <action id="Refactorings.QuickListPopupAction" />
   <action id="Refresh" />
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="meta r" second-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="meta r" />
   </action>
   <action id="Rerun" />
   <action id="RerunTests" />
