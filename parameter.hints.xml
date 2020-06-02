@@ -10,6 +10,14 @@
         <added pattern="com.fz.code.util.MobEvent(category,region,eventDesc,code)" />
         <added pattern="com.fz.code.util.DefinedEvents.add(a,b,c,d)" />
       </blacklist>
+      <blacklist language="Java">
+        <added pattern="com.fz.code.ui.abcmain.TaskFragment.requestRewardVideoAds(isRewardVideo,videoAdsCode)" />
+      </blacklist>
     </blacklists>
+    <option id="SHOW_PARAMETER_HINT" value="false" />
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="kotlin" />
+    </disabledLanguages>
   </component>
 </application>
