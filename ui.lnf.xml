@@ -4,5 +4,6 @@
     <option name="EDITOR_TAB_PLACEMENT" value="2" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>

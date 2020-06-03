@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
   <action id="ActivateHierarchyToolWindow" />
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
   <action id="ActivateMessagesToolWindow" />
   <action id="ActivatePreviewToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
@@ -17,6 +20,7 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
@@ -301,10 +305,10 @@
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
   <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="shift f1" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="shift f1" />
   </action>
   <action id="RebuildGradleProject">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
@@ -312,12 +316,10 @@
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
   <action id="RecentFiles" />
-  <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="meta t" />
-  </action>
+  <action id="Refactorings.QuickListPopupAction" />
   <action id="Refresh" />
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="meta r" />
   </action>
   <action id="Rerun" />
   <action id="RerunTests" />
@@ -325,7 +327,9 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
-  <action id="RunInspection" />
+  <action id="RunInspection">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
   <action id="SafeDelete" />
   <action id="SelectAllOccurrences" />
   <action id="SelectIn">

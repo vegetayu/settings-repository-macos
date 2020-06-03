@@ -1,5 +1,6 @@
 <application>
   <component name="KotlinRefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INLINE_LOCAL_THIS" value="true" />
   </component>
 </application>
