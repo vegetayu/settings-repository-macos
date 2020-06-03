@@ -4,9 +4,7 @@
       <mapping pattern="odir" type="PLAIN_TEXT" />
       <mapping pattern="yuluyao" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
-      <mapping pattern="*.js.flow" type="Flow" />
     </extensionMap>
   </component>
 </application>
