@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
   <action id="ActivateHierarchyToolWindow" />
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
   <action id="ActivateMessagesToolWindow" />
   <action id="ActivatePreviewToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
@@ -17,6 +20,7 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
@@ -50,6 +54,9 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -63,7 +70,9 @@
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="CopyElement" />
-  <action id="CopyPaths" />
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
   <action id="CopyReference" />
   <action id="Debugger.EditCustomField" />
   <action id="EditSource" />
@@ -80,15 +89,14 @@
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="shift meta up" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="shift meta down" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCompleteStatement">
-    <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
   <action id="EditorContextInfo" />
@@ -145,6 +153,7 @@
   <action id="EditorPreviousWordWithSelection" />
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta e" />
@@ -193,7 +202,7 @@
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="button2" />
@@ -201,13 +210,13 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift alt n" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
@@ -217,7 +226,7 @@
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift alt m" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
@@ -240,6 +249,7 @@
   <action id="IntroduceActionsGroup">
     <keyboard-shortcut first-keystroke="meta alt e" />
   </action>
+  <action id="IntroduceConstant" />
   <action id="JumpToLastWindow" />
   <action id="KotlinShellExecute" />
   <action id="Macro.delete author">
@@ -258,9 +268,18 @@
   <action id="Move" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
-  <action id="MoveStatementDown" />
-  <action id="MoveStatementUp" />
-  <action id="NextOccurence" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift meta alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift meta alt up" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
@@ -277,7 +296,6 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="PopupHector" />
-  <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
@@ -287,23 +305,21 @@
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
   <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="shift f1" />
-  </action>
-  <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="shift f1" />
+  </action>
   <action id="RebuildGradleProject">
-    <keyboard-shortcut first-keystroke="meta alt b" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
   <action id="RecentFiles" />
-  <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="meta t" />
-  </action>
+  <action id="Refactorings.QuickListPopupAction" />
   <action id="Refresh" />
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="meta r" />
   </action>
   <action id="Rerun" />
   <action id="RerunTests" />
@@ -311,7 +327,9 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
-  <action id="RunInspection" />
+  <action id="RunInspection">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
   <action id="SafeDelete" />
   <action id="SelectAllOccurrences" />
   <action id="SelectIn">
@@ -327,7 +345,6 @@
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="ShowNavBar" />
-  <action id="ShowReformatFileDialog" />
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="f3" />
@@ -362,6 +379,12 @@
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.JumpToSource" />
   <action id="XDebugger.SetValue" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="com.azoft.json2dart.JsonToDartAction.inNew">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>

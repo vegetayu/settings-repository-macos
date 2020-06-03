@@ -1,5 +1,14 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
   </component>
 </application>
