@@ -50,9 +50,11 @@
   </action>
   <action id="ChangeSignature" />
   <action id="ChangeTypeSignature" />
+  <action id="ChangesView.Revert" />
+  <action id="ChangesView.ShelveSilently" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject">
-    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta c" />
   </action>
   <action id="CleanGradleProject">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
@@ -199,7 +201,7 @@
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="Git.RepositoryContextMenu">
-    <keyboard-shortcut first-keystroke="shift meta alt y" />
+    <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta m" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl a" />
@@ -340,6 +342,8 @@
   </action>
   <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShelvedChanges.Rename" />
   <action id="ShowBookmarks" />
   <action id="ShowContent" />
   <action id="ShowErrorDescription" />
@@ -369,16 +373,12 @@
   <action id="Vcs.EditSource" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.GoToRef" />
-  <action id="Vcs.Push">
-    <keyboard-shortcut first-keystroke="meta alt y" />
-  </action>
+  <action id="Vcs.Push" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="Vcs.UpdateProject">
-    <keyboard-shortcut first-keystroke="shift meta y" />
-  </action>
+  <action id="Vcs.UpdateProject" />
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
   <action id="ViewSource" />
