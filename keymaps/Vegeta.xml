@@ -200,6 +200,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta f" />
+  </action>
   <action id="Git.RepositoryContextMenu">
     <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta m" />
   </action>
@@ -373,12 +376,16 @@
   <action id="Vcs.EditSource" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.GoToRef" />
-  <action id="Vcs.Push" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta p" />
+  </action>
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="Vcs.UpdateProject" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta u" />
+  </action>
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
   <action id="ViewSource" />
