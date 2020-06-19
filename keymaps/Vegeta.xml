@@ -22,7 +22,7 @@
   </action>
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="meta 7" />
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
   <action id="ActivateThemePreviewToolWindow">
     <keyboard-shortcut first-keystroke="meta alt 8" />
@@ -198,6 +198,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
+  <action id="Git.RepositoryContextMenu">
+    <keyboard-shortcut first-keystroke="shift meta alt y" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
@@ -366,6 +369,9 @@
   <action id="Vcs.EditSource" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.GoToRef" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="meta alt y" />
+  </action>
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
