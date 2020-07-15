@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
-      <mapping pattern="odir" type="PLAIN_TEXT" />
-      <mapping pattern="yuluyao" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
+      <mapping pattern="yuluyao" type="PLAIN_TEXT" />
+      <mapping pattern="odir" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
