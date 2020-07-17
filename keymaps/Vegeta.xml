@@ -182,6 +182,16 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="EmmetPreviousEditPoint" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+    <keyboard-shortcut first-keystroke="meta f4" />
+  </action>
+  <action id="ExpandAllToLevel1">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="f4" second-keystroke="1" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="ExternalJavaDoc" />
   <action id="FileChooser.GotoHome" />
