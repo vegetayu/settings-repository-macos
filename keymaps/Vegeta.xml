@@ -34,6 +34,9 @@
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="AutoIndentLines" />
@@ -216,9 +219,7 @@
   <action id="Git.RepositoryContextMenu">
     <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta m" />
   </action>
-  <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="ctrl a" />
-  </action>
+  <action id="GotoAction" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
