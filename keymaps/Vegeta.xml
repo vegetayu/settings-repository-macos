@@ -195,6 +195,16 @@
     <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
     <keyboard-shortcut first-keystroke="f4" second-keystroke="1" />
   </action>
+  <action id="ExpandAllToLevel2">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="2" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad2" />
+    <keyboard-shortcut first-keystroke="f4" second-keystroke="2" />
+  </action>
+  <action id="ExpandAllToLevel3">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="3" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad3" />
+    <keyboard-shortcut first-keystroke="f4" second-keystroke="3" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="ExternalJavaDoc" />
   <action id="FileChooser.GotoHome" />
