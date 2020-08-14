@@ -1,5 +1,7 @@
 <application>
   <component name="KotlinRefactoringSettings">
+    <option name="renameInheritors" value="false" />
+    <option name="renameVariables" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
 </application>
