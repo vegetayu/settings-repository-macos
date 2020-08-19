@@ -376,6 +376,7 @@
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="ShowNavBar" />
+  <action id="ShowProjectStructureSettings" />
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="f3" />
