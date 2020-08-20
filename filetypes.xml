@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="odir" type="PLAIN_TEXT" />
       <mapping pattern="yuluyao" type="PLAIN_TEXT" />
       <mapping pattern="repo" type="PLAIN_TEXT" />
