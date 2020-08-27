@@ -57,7 +57,7 @@
   <action id="ChangesView.ShelveSilently" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject">
-    <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="meta y" second-keystroke="c" />
   </action>
   <action id="CleanGradleProject">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
@@ -348,7 +348,7 @@
   <action id="Refactorings.QuickListPopupAction" />
   <action id="Refresh" />
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="meta t" second-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="r" />
   </action>
   <action id="Rerun" />
   <action id="RerunTests" />
@@ -406,7 +406,7 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Vcs.UpdateProject">
-    <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="meta y" second-keystroke="u" />
   </action>
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
