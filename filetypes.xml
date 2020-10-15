@@ -7,8 +7,8 @@
       <mapping pattern="odir" type="PLAIN_TEXT" />
       <mapping pattern="yuluyao" type="PLAIN_TEXT" />
       <mapping pattern="repo" type="PLAIN_TEXT" />
-      <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping pattern="abcd" type="PLAIN_TEXT" />
+      <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
