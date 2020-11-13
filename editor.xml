@@ -10,7 +10,7 @@
       <map>
         <entry key="Groovy" value="true" />
         <entry key="HTML" value="true" />
-        <entry key="JAVA" value="false" />
+        <entry key="JAVA" value="true" />
         <entry key="JSON" value="true" />
         <entry key="ObjectiveC" value="true" />
         <entry key="XHTML" value="true" />
