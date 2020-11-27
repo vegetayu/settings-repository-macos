@@ -34,6 +34,9 @@
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="AutoIndentLines" />
@@ -54,7 +57,7 @@
   <action id="ChangesView.ShelveSilently" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject">
-    <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="meta y" second-keystroke="c" />
   </action>
   <action id="CleanGradleProject">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
@@ -182,6 +185,26 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="EmmetPreviousEditPoint" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+    <keyboard-shortcut first-keystroke="meta f4" />
+  </action>
+  <action id="ExpandAllToLevel1">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="f4" second-keystroke="1" />
+  </action>
+  <action id="ExpandAllToLevel2">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="2" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad2" />
+    <keyboard-shortcut first-keystroke="f4" second-keystroke="2" />
+  </action>
+  <action id="ExpandAllToLevel3">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="3" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad3" />
+    <keyboard-shortcut first-keystroke="f4" second-keystroke="3" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="ExternalJavaDoc" />
   <action id="FileChooser.GotoHome" />
@@ -201,14 +224,9 @@
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="Git.Fetch">
-    <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta f" />
+    <keyboard-shortcut first-keystroke="meta y" second-keystroke="f" />
   </action>
-  <action id="Git.RepositoryContextMenu">
-    <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta m" />
-  </action>
-  <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="ctrl a" />
-  </action>
+  <action id="GotoAction" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
@@ -327,7 +345,7 @@
   <action id="Refactorings.QuickListPopupAction" />
   <action id="Refresh" />
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="meta t" second-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="r" />
   </action>
   <action id="Rerun" />
   <action id="RerunTests" />
@@ -355,6 +373,7 @@
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="ShowNavBar" />
+  <action id="ShowProjectStructureSettings" />
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="f3" />
@@ -377,14 +396,14 @@
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.Push">
-    <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta p" />
+    <keyboard-shortcut first-keystroke="meta y" second-keystroke="p" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Vcs.UpdateProject">
-    <keyboard-shortcut first-keystroke="meta y" second-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="meta y" second-keystroke="u" />
   </action>
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
