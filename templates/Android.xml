@@ -1,0 +1,40 @@
+<templateSet group="Android">
+  <template name="swit" value="switch($i$){&#10;  case 0:&#10;    break;&#10;  case 1:&#10;    break;&#10;  case 2:&#10;    break;&#10;  case 3:&#10;    break;&#10;    &#10;  default:&#10;    break;&#10;}" description="for switch case" toReformat="false" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="Toast" value="android.widget.Toast.makeText($context$, $text$, Toast.LENGTH_SHORT).show();" description="Create a new Toast" toReformat="true" toShortenFQNames="true">
+    <variable name="context" expression="variableOfType(&quot;android.content.Context&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="fold" value="// &lt;editor-fold desc=&quot;$desc$&quot;&gt;" description="editor-fold start" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="foldend" value="// &lt;/editor-fold&gt;" description="editor-fold end" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="logv" value="android.util.Log.v(TAG,&quot;$msg$&quot;)" description="Log.v()" toReformat="false" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="markfold" value="// &lt;editor-fold defaultstate=&quot;expanded&quot; desc=&quot;$description$&quot;&gt;&#10;&#10;$SELECTION$&#10;&#10;// &lt;/editor-fold&gt;" description="Mark Code Block" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

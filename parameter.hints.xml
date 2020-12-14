@@ -1,0 +1,23 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="android.content.Intent.getStringExtra(name)" />
+        <added pattern="android.graphics.Canvas.drawArc(oval,startAngle,sweepAngle,useCenter,paint)" />
+        <added pattern="com.bumptech.glide.load.resource.bitmap.RoundedCorners(roundingRadius)" />
+        <added pattern="com.fz.code.repo.viewmodel.AdsViewModel.getCacheAdsSwitch(interfaceTimeKey,interfaceDataKey,adsCode,channel,gdtVersion,adsSwitchListener)" />
+        <added pattern="android.animation.ObjectAnimator.ofFloat(target,propertyName,values)" />
+        <added pattern="com.fz.code.util.MobEvent(category,region,eventDesc,code)" />
+        <added pattern="com.fz.code.util.DefinedEvents.add(a,b,c,d)" />
+      </blacklist>
+      <blacklist language="Java">
+        <added pattern="com.fz.code.ui.abcmain.TaskFragment.requestRewardVideoAds(isRewardVideo,videoAdsCode)" />
+      </blacklist>
+    </blacklists>
+    <option id="SHOW_PARAMETER_HINT" value="false" />
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="kotlin" />
+    </disabledLanguages>
+  </component>
+</application>

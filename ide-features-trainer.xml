@@ -1,0 +1,112 @@
+<application>
+  <component name="GroupManager">
+    <expandedByName>
+      <entry name="Tutorials" expanded="false" />
+      <entry name="Projects" expanded="true" />
+    </expandedByName>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="go" />
+  </component>
+  <component name="LessonStateBase">
+    <option name="map">
+      <map>
+        <entry key="actions" value="NOT_PASSED" />
+        <entry key="basic completion" value="NOT_PASSED" />
+        <entry key="class search" value="NOT_PASSED" />
+        <entry key="code completion for functions" value="NOT_PASSED" />
+        <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
+        <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
+        <entry key="codeassistance.parameterinfo" value="NOT_PASSED" />
+        <entry key="codeassistance.quickpopups" value="NOT_PASSED" />
+        <entry key="collapse" value="NOT_PASSED" />
+        <entry key="comment line" value="NOT_PASSED" />
+        <entry key="completion with tab" value="NOT_PASSED" />
+        <entry key="debug function calls" value="NOT_PASSED" />
+        <entry key="declaration and usages" value="NOT_PASSED" />
+        <entry key="duplicate" value="NOT_PASSED" />
+        <entry key="editorbasics.commentline" value="NOT_PASSED" />
+        <entry key="editorbasics.deleteline" value="NOT_PASSED" />
+        <entry key="editorbasics.selection" value="NOT_PASSED" />
+        <entry key="extract method" value="NOT_PASSED" />
+        <entry key="extract variable" value="NOT_PASSED" />
+        <entry key="file structure" value="NOT_PASSED" />
+        <entry key="fixing a test file" value="NOT_PASSED" />
+        <entry key="generate missing methods" value="NOT_PASSED" />
+        <entry key="goland2019.2.extractmethodrefactoringwithreturns" value="NOT_PASSED" />
+        <entry key="goland2019.2.fillstructfields" value="NOT_PASSED" />
+        <entry key="goland2019.2.redundanttypeconversions" value="NOT_PASSED" />
+        <entry key="goland2019.3.createfunctionfromfunctiontype" value="NOT_PASSED" />
+        <entry key="goland2019.3.deleteparameternames" value="NOT_PASSED" />
+        <entry key="goland2019.3.deleteunusedparameters" value="NOT_PASSED" />
+        <entry key="goland2019.3.extractvariablewitherror" value="NOT_PASSED" />
+        <entry key="goland2019.3.forrlivetemplate" value="NOT_PASSED" />
+        <entry key="goland2019.3.reusesignaturetypes" value="NOT_PASSED" />
+        <entry key="gophercon.codeformatting" value="NOT_PASSED" />
+        <entry key="gophercon.commentline" value="NOT_PASSED" />
+        <entry key="gophercon.extractfunction/method" value="NOT_PASSED" />
+        <entry key="gophercon.extractvariable" value="NOT_PASSED" />
+        <entry key="gophercon.formatstringargument" value="NOT_PASSED" />
+        <entry key="gophercon.gofmt" value="NOT_PASSED" />
+        <entry key="gophercon.implementmissingmethods" value="NOT_PASSED" />
+        <entry key="gophercon.inline" value="NOT_PASSED" />
+        <entry key="gophercon.rename" value="NOT_PASSED" />
+        <entry key="handling errors with live and postfix templates: if and rr" value="NOT_PASSED" />
+        <entry key="hippie completion" value="NOT_PASSED" />
+        <entry key="live and postfix templates: else, fori, and vars" value="NOT_PASSED" />
+        <entry key="method-like function completion" value="NOT_PASSED" />
+        <entry key="move" value="NOT_PASSED" />
+        <entry key="multiple selections" value="NOT_PASSED" />
+        <entry key="navigation from comments" value="NOT_PASSED" />
+        <entry key="navigation.declaration/implementation" value="NOT_PASSED" />
+        <entry key="navigation.filestructure" value="NOT_PASSED" />
+        <entry key="navigation.jumptosource" value="NOT_PASSED" />
+        <entry key="navigation.next/previousoccurrences" value="NOT_PASSED" />
+        <entry key="postfix completion" value="NOT_PASSED" />
+        <entry key="postfix completion with sort" value="NOT_PASSED" />
+        <entry key="postfix templates" value="NOT_PASSED" />
+        <entry key="postfix templates (nn, panic, rr, and return)" value="NOT_PASSED" />
+        <entry key="quick-fixes, refactorings, and external documentation" value="NOT_PASSED" />
+        <entry key="refactoring menu" value="NOT_PASSED" />
+        <entry key="refactorings.extractmethod" value="NOT_PASSED" />
+        <entry key="refactorings.extractvariable/field" value="NOT_PASSED" />
+        <entry key="refactorings.refactoringbasics" value="NOT_PASSED" />
+        <entry key="refactorings.rename" value="NOT_PASSED" />
+        <entry key="rename" value="NOT_PASSED" />
+        <entry key="select" value="NOT_PASSED" />
+        <entry key="smart type completion" value="NOT_PASSED" />
+        <entry key="smart type completion and pointers" value="NOT_PASSED" />
+        <entry key="smart type completion for type assertions and switch constructions" value="NOT_PASSED" />
+        <entry key="statement completion" value="NOT_PASSED" />
+        <entry key="struct inspections" value="NOT_PASSED" />
+        <entry key="swift.codeassistance.codeformatting" value="NOT_PASSED" />
+        <entry key="swift.codeassistance.quickpopups" value="NOT_PASSED" />
+        <entry key="swift.codegeneration.createfromusage" value="NOT_PASSED" />
+        <entry key="swift.codegeneration.generate" value="NOT_PASSED" />
+        <entry key="swift.codegeneration.overrideimplement" value="NOT_PASSED" />
+        <entry key="swift.codegeneration.quickfixes" value="NOT_PASSED" />
+        <entry key="swift.completions.basiccompletion" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.collapse" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.commentline" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.deleteline" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.duplicate" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.move" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.multipleselections" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.selection" value="NOT_PASSED" />
+        <entry key="swift.navigation.code" value="NOT_PASSED" />
+        <entry key="swift.navigation.search" value="NOT_PASSED" />
+        <entry key="swift.navigation.toolwindows" value="NOT_PASSED" />
+        <entry key="swift.rdt.debug" value="NOT_PASSED" />
+        <entry key="swift.rdt.run" value="NOT_PASSED" />
+        <entry key="swift.rdt.test" value="NOT_PASSED" />
+        <entry key="swift.refactorings.extract.closure" value="NOT_PASSED" />
+        <entry key="swift.refactorings.extract.method" value="NOT_PASSED" />
+        <entry key="swift.refactorings.extract.variable" value="NOT_PASSED" />
+        <entry key="swift.refactorings.rename" value="NOT_PASSED" />
+        <entry key="using live templates with types" value="NOT_PASSED" />
+        <entry key="working with variadic functions" value="NOT_PASSED" />
+        <entry key="wrapping long lines" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
+</application>
