@@ -17,9 +17,6 @@
   <action id="ActivatePreviewToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
-  </action>
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
