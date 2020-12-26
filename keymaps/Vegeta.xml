@@ -9,6 +9,7 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateHierarchyToolWindow" />
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
