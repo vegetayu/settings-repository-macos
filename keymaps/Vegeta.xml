@@ -9,6 +9,7 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateHierarchyToolWindow" />
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
@@ -257,6 +258,9 @@
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift f2" />
+  </action>
+  <action id="Gradle.ToggleOfflineAction">
+    <keyboard-shortcut first-keystroke="shift meta alt o" />
   </action>
   <action id="Gsonformat" />
   <action id="HideActiveWindow">
