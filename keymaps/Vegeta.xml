@@ -208,6 +208,7 @@
   </action>
   <action id="ExpressionTypeInfo" />
   <action id="ExternalJavaDoc" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
