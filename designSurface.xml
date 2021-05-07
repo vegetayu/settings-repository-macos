@@ -5,15 +5,18 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/bg_food_info.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/food_item_face.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/shape_count_down.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.26721014492753625" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.35054347826086957" />
         <entry key="app/src/main/res/layout/activity_studio.xml" value="0.26721014492753625" />
+        <entry key="app/src/main/res/layout/dialog_splash_all.xml" value="0.5" />
         <entry key="app/src/main/res/layout/emo_activity.xml" value="0.26721014492753625" />
         <entry key="app/src/main/res/layout/emo_detail_activity.xml" value="0.26313405797101447" />
         <entry key="app/src/main/res/layout/food_activity.xml" value="0.335" />
         <entry key="app/src/main/res/layout/food_opt_item.xml" value="0.2608695652173913" />
         <entry key="app/src/main/res/layout/item_studio_bg.xml" value="0.3423913043478261" />
         <entry key="app/src/main/res/layout/item_studio_option.xml" value="0.20212765957446807" />
+        <entry key="app/src/main/res/layout/layout_splash_style_two.xml" value="0.33605072463768115" />
         <entry key="app/src/main/res/layout/pic_merge_activity.xml" value="0.3432971014492754" />
       </map>
     </option>
