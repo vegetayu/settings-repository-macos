@@ -10,6 +10,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.26721014492753625" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.35054347826086957" />
         <entry key="app/src/main/res/layout/activity_studio.xml" value="0.26721014492753625" />
+        <entry key="app/src/main/res/layout/dialog_answer_cor.xml" value="0.3446557971014493" />
         <entry key="app/src/main/res/layout/dialog_backup_ad.xml" value="0.33605072463768115" />
         <entry key="app/src/main/res/layout/dialog_splash_all.xml" value="0.254981884057971" />
         <entry key="app/src/main/res/layout/emo_activity.xml" value="0.26721014492753625" />
@@ -20,6 +21,7 @@
         <entry key="app/src/main/res/layout/item_studio_option.xml" value="0.20212765957446807" />
         <entry key="app/src/main/res/layout/layout_splash_style_two.xml" value="0.33605072463768115" />
         <entry key="app/src/main/res/layout/pic_merge_activity.xml" value="0.3432971014492754" />
+        <entry key="app/src/main/res/layout/save_suc_activity.xml" value="0.25317028985507245" />
       </map>
     </option>
   </component>
