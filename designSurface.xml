@@ -3,10 +3,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v21/launch_background.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/bg_food_info.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_item_main_foot.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_skip.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/food_item_face.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/launch_background.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/shape_count_down.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.26721014492753625" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.35054347826086957" />
