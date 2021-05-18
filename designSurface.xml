@@ -7,6 +7,9 @@
         <entry key="app/src/main/res/drawable/bg_food_info.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_item_main_foot.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_skip.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/bg_whote_round.xml" value="0.38287037037037036" />
+        <entry key="app/src/main/res/drawable/btn_primary.xml" value="0.38287037037037036" />
+        <entry key="app/src/main/res/drawable/btn_primary_round.xml" value="0.38287037037037036" />
         <entry key="app/src/main/res/drawable/btn_refresh_tag.xml" value="0.38287037037037036" />
         <entry key="app/src/main/res/drawable/btn_welcome_skip.xml" value="0.38287037037037036" />
         <entry key="app/src/main/res/drawable/emo_tag_item.xml" value="0.38287037037037036" />
@@ -30,7 +33,7 @@
         <entry key="app/src/main/res/layout/item_func_hot.xml" value="0.1802168021680217" />
         <entry key="app/src/main/res/layout/item_func_main.xml" value="0.25815217391304346" />
         <entry key="app/src/main/res/layout/item_studio_bg.xml" value="0.3423913043478261" />
-        <entry key="app/src/main/res/layout/item_studio_func.xml" value="2.5" />
+        <entry key="app/src/main/res/layout/item_studio_func.xml" value="2.9657918953869" />
         <entry key="app/src/main/res/layout/item_studio_option.xml" value="0.20212765957446807" />
         <entry key="app/src/main/res/layout/layout_splash_style_two.xml" value="0.33605072463768115" />
         <entry key="app/src/main/res/layout/meme_activity.xml" value="0.45" />
