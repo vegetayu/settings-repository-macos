@@ -21,6 +21,7 @@
         <entry key="app/src/main/res/drawable/launch_background.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/shape_count_down.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/splash_bg.xml" value="0.2833333333333333" />
+        <entry key="app/src/main/res/layout-landscape/home_activity.xml" value="0.31302083333333336" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.37273550724637683" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.35054347826086957" />
         <entry key="app/src/main/res/layout/activity_studio.xml" value="0.26721014492753625" />
@@ -38,6 +39,7 @@
         <entry key="app/src/main/res/layout/food_activity.xml" value="0.335" />
         <entry key="app/src/main/res/layout/food_opt_item.xml" value="0.34601449275362317" />
         <entry key="app/src/main/res/layout/guid_dialog_a.xml" value="0.35597826086956524" />
+        <entry key="app/src/main/res/layout/home_activity.xml" value="0.37092391304347827" />
         <entry key="app/src/main/res/layout/item_func_foot.xml" value="0.25815217391304346" />
         <entry key="app/src/main/res/layout/item_func_hot.xml" value="0.1802168021680217" />
         <entry key="app/src/main/res/layout/item_func_main.xml" value="0.25815217391304346" />
