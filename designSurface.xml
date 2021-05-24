@@ -27,13 +27,16 @@
         <entry key="app/src/main/res/layout/content_scrolling.xml" value="0.3183876811594203" />
         <entry key="app/src/main/res/layout/dialog_answer_cor.xml" value="0.3446557971014493" />
         <entry key="app/src/main/res/layout/dialog_backup_ad.xml" value="0.33605072463768115" />
+        <entry key="app/src/main/res/layout/dialog_network_loading.xml" value="0.1802168021680217" />
         <entry key="app/src/main/res/layout/dialog_network_loading2.xml" value="0.36820652173913043" />
         <entry key="app/src/main/res/layout/dialog_splash_all.xml" value="0.254981884057971" />
         <entry key="app/src/main/res/layout/emo_activity.xml" value="0.375" />
         <entry key="app/src/main/res/layout/emo_detail_activity.xml" value="0.375" />
-        <entry key="app/src/main/res/layout/emo_tag_item.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/layout/emo_img_item.xml" value="0.1802168021680217" />
+        <entry key="app/src/main/res/layout/emo_tag_item.xml" value="0.35597826086956524" />
         <entry key="app/src/main/res/layout/food_activity.xml" value="0.335" />
         <entry key="app/src/main/res/layout/food_opt_item.xml" value="0.34601449275362317" />
+        <entry key="app/src/main/res/layout/guid_dialog_a.xml" value="0.35597826086956524" />
         <entry key="app/src/main/res/layout/item_func_foot.xml" value="0.25815217391304346" />
         <entry key="app/src/main/res/layout/item_func_hot.xml" value="0.1802168021680217" />
         <entry key="app/src/main/res/layout/item_func_main.xml" value="0.25815217391304346" />
@@ -45,6 +48,7 @@
         <entry key="app/src/main/res/layout/permission_notice.xml" value="0.2513586956521739" />
         <entry key="app/src/main/res/layout/pic_merge_activity.xml" value="0.24728260869565216" />
         <entry key="app/src/main/res/layout/save_suc_activity.xml" value="0.25317028985507245" />
+        <entry key="app/src/main/res/layout/studio_progress_dialog.xml" value="0.3423913043478261" />
         <entry key="app/src/main/res/layout/unlock_dialog.xml" value="0.55" />
         <entry key="app/src/main/res/layout/welcome_activity.xml" value="0.3432971014492754" />
         <entry key="app/src/main/res/layout/welcome_page_a.xml" value="0.5" />
