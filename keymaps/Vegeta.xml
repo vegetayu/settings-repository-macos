@@ -18,6 +18,7 @@
   <action id="ActivatePreviewToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="ActivateProblemsViewToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
@@ -208,6 +209,7 @@
   </action>
   <action id="ExpressionTypeInfo" />
   <action id="ExternalJavaDoc" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
