@@ -29,11 +29,12 @@
         <entry key="app/src/main/res/drawable/mask_card_bar_left.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/mask_card_bar_right.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/shape_count_down.xml" value="0.43072916666666666" />
-        <entry key="app/src/main/res/drawable/splash_bg.xml" value="0.2833333333333333" />
+        <entry key="app/src/main/res/drawable/splash_bg.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/layout-land/class0_fragment.xml" value="0.35185185185185186" />
-        <entry key="app/src/main/res/layout-land/class_activity.xml" value="0.38420888609257" />
+        <entry key="app/src/main/res/layout-land/class_activity.xml" value="1.0" />
         <entry key="app/src/main/res/layout-land/home_activity.xml" value="0.28854166666666664" />
         <entry key="app/src/main/res/layout-land/setting.xml" value="0.35185185185185186" />
+        <entry key="app/src/main/res/layout-land/splash_activity.xml" value="0.35185185185185186" />
         <entry key="app/src/main/res/layout-landscape/home_activity.xml" value="0.31302083333333336" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.37273550724637683" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.35054347826086957" />
@@ -46,6 +47,7 @@
         <entry key="app/src/main/res/layout/content_scrolling.xml" value="0.3183876811594203" />
         <entry key="app/src/main/res/layout/dialog_answer_cor.xml" value="0.3446557971014493" />
         <entry key="app/src/main/res/layout/dialog_backup_ad.xml" value="0.33605072463768115" />
+        <entry key="app/src/main/res/layout/dialog_g_exit_sp.xml" value="0.1" />
         <entry key="app/src/main/res/layout/dialog_network_loading.xml" value="0.1802168021680217" />
         <entry key="app/src/main/res/layout/dialog_network_loading2.xml" value="0.36820652173913043" />
         <entry key="app/src/main/res/layout/dialog_splash_all.xml" value="0.254981884057971" />
