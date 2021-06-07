@@ -31,12 +31,13 @@
         <entry key="app/src/main/res/drawable/mask_card_bar_left.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/mask_card_bar_right.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/search_et.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/search_et_solid.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/shape_count_down.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/splash_bg.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/layout-land/class0_fragment.xml" value="0.35185185185185186" />
-        <entry key="app/src/main/res/layout-land/class_activity.xml" value="0.28854166666666664" />
+        <entry key="app/src/main/res/layout-land/class_activity.xml" value="0.35185185185185186" />
         <entry key="app/src/main/res/layout-land/feed_back_activity.xml" value="0.35185185185185186" />
-        <entry key="app/src/main/res/layout-land/home_activity.xml" value="1.5660919540229885" />
+        <entry key="app/src/main/res/layout-land/home_activity.xml" value="0.9404958677685951" />
         <entry key="app/src/main/res/layout-land/setting.xml" value="0.35185185185185186" />
         <entry key="app/src/main/res/layout-land/splash_activity.xml" value="0.35185185185185186" />
         <entry key="app/src/main/res/layout-land/web_activity.xml" value="0.2838541666666667" />
@@ -63,6 +64,7 @@
         <entry key="app/src/main/res/layout/feed_back_activity.xml" value="0.2726449275362319" />
         <entry key="app/src/main/res/layout/food_activity.xml" value="0.335" />
         <entry key="app/src/main/res/layout/food_opt_item.xml" value="0.34601449275362317" />
+        <entry key="app/src/main/res/layout/goods_activity.xml" value="0.34375" />
         <entry key="app/src/main/res/layout/guid_dialog_a.xml" value="0.35597826086956524" />
         <entry key="app/src/main/res/layout/home_activity.xml" value="0.37092391304347827" />
         <entry key="app/src/main/res/layout/item_func_foot.xml" value="0.25815217391304346" />
