@@ -59,7 +59,7 @@
         <entry key="app/src/main/res/layout/dialog_g_exit_sp.xml" value="0.1" />
         <entry key="app/src/main/res/layout/dialog_network_loading.xml" value="0.1802168021680217" />
         <entry key="app/src/main/res/layout/dialog_network_loading2.xml" value="0.36820652173913043" />
-        <entry key="app/src/main/res/layout/dialog_splash_all.xml" value="0.254981884057971" />
+        <entry key="app/src/main/res/layout/dialog_splash_all.xml" value="0.5" />
         <entry key="app/src/main/res/layout/emo_activity.xml" value="0.375" />
         <entry key="app/src/main/res/layout/emo_detail_activity.xml" value="0.375" />
         <entry key="app/src/main/res/layout/emo_img_item.xml" value="0.1802168021680217" />
