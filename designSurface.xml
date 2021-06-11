@@ -4,28 +4,37 @@
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/drawable-v21/launch_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/back_dark.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_feed_back.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_food_info.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_item_main_foot.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/bg_main_menu_1.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_setting.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_skip.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_webview.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_whote_round.xml" value="0.38287037037037036" />
         <entry key="app/src/main/res/drawable/btn_class_back.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/btn_class_setting.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/btn_emo_cancel.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/btn_emo_download.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/btn_func_item.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/btn_home_a.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/btn_home_b.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/btn_home_c.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/btn_primary.xml" value="0.43072916666666666" />
-        <entry key="app/src/main/res/drawable/btn_primary_round.xml" value="0.38287037037037036" />
-        <entry key="app/src/main/res/drawable/btn_refresh_tag.xml" value="0.38287037037037036" />
-        <entry key="app/src/main/res/drawable/btn_welcome_next.xml" value="0.38287037037037036" />
-        <entry key="app/src/main/res/drawable/btn_welcome_skip.xml" value="0.38287037037037036" />
-        <entry key="app/src/main/res/drawable/dot_dark.xml" value="0.38287037037037036" />
+        <entry key="app/src/main/res/drawable/btn_primary_round.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/btn_refresh_tag.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/btn_save_suc_continue.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/btn_small.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/btn_welcome_next.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/btn_welcome_skip.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/dot_dark.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/dot_grey.xml" value="0.38287037037037036" />
-        <entry key="app/src/main/res/drawable/emo_tag_item.xml" value="0.38287037037037036" />
+        <entry key="app/src/main/res/drawable/dot_light.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/emo_tag_item.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/food_item_face.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/ic_loading.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/ic_lock.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/ic_switch.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/label_best_choice.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/label_cheapest.xml" value="0.43072916666666666" />
@@ -37,6 +46,8 @@
         <entry key="app/src/main/res/drawable/search_et_stroke.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/shape_count_down.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/splash_bg.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/studio_opt_bg.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/studio_opt_name.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/layout-land/class0_fragment.xml" value="0.35185185185185186" />
         <entry key="app/src/main/res/layout-land/class_activity.xml" value="0.35185185185185186" />
         <entry key="app/src/main/res/layout-land/feed_back_activity.xml" value="0.35185185185185186" />
