@@ -39,7 +39,7 @@
                   </entry>
                   <entry key="DjangoTestsConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Django tests" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Django tests" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
@@ -49,22 +49,22 @@
                   </entry>
                   <entry key="GoAppEngineRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Go App Engine" pluginName="Go" pluginId="org.jetbrains.plugins.go" />
+                      <FeaturePluginData displayName="Go App Engine" pluginName="Go" pluginId="org.jetbrains.plugins.go" bundled="true" />
                     </value>
                   </entry>
                   <entry key="GoApplicationRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Go Build" pluginName="Go" pluginId="org.jetbrains.plugins.go" />
+                      <FeaturePluginData displayName="Go Build" pluginName="Go" pluginId="org.jetbrains.plugins.go" bundled="true" />
                     </value>
                   </entry>
                   <entry key="GoRemoteDebugConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Go Remote" pluginName="Go" pluginId="org.jetbrains.plugins.go" />
+                      <FeaturePluginData displayName="Go Remote" pluginName="Go" pluginId="org.jetbrains.plugins.go" bundled="true" />
                     </value>
                   </entry>
                   <entry key="GoTestRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Go Test" pluginName="Go" pluginId="org.jetbrains.plugins.go" />
+                      <FeaturePluginData displayName="Go Test" pluginName="Go" pluginId="org.jetbrains.plugins.go" bundled="true" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
@@ -92,6 +92,11 @@
                       <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Makefile Target" pluginName="Makefile Language" pluginId="name.kropp.intellij.makefile" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="NodeWebKit">
                     <value>
                       <FeaturePluginData displayName="NW.js" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
@@ -114,37 +119,37 @@
                   </entry>
                   <entry key="PyBehaveRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Behave" pluginName="Pythonid" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Behave" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="PyRemoteDebugConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Python Debug Server" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Python Debug Server" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="Python.AppEngineServer">
                     <value>
-                      <FeaturePluginData displayName="App Engine server" pluginName="Pythonid" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="App Engine server" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="Python.DjangoServer">
                     <value>
-                      <FeaturePluginData displayName="Django Server" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Django Server" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="Python.FlaskServer">
                     <value>
-                      <FeaturePluginData displayName="Flask server" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Flask server" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="Python.PyramidServer">
                     <value>
-                      <FeaturePluginData displayName="Pyramid server" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Pyramid server" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="PythonConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Python" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="ReactNative">
@@ -155,6 +160,11 @@
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="SwaggerCodegen">
+                    <value>
+                      <FeaturePluginData displayName="Swagger Codegen" pluginName="OpenAPI Specifications" pluginId="com.intellij.swagger" bundled="true" />
                     </value>
                   </entry>
                   <entry key="SwiftPackageManagerRunConfiguration">
@@ -174,7 +184,7 @@
                   </entry>
                   <entry key="Tox">
                     <value>
-                      <FeaturePluginData displayName="tox" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="tox" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
@@ -194,7 +204,7 @@
                   </entry>
                   <entry key="docs">
                     <value>
-                      <FeaturePluginData displayName="Python docs" pluginName="Pythonid" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Python docs" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
@@ -214,7 +224,7 @@
                   </entry>
                   <entry key="tests">
                     <value>
-                      <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                 </map>
@@ -229,17 +239,17 @@
                 <map>
                   <entry key="buildout-python">
                     <value>
-                      <FeaturePluginData displayName="Buildout Support" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Buildout Support" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="django">
                     <value>
-                      <FeaturePluginData displayName="Django" pluginName="Python" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Django" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="google-appengine-python">
                     <value>
-                      <FeaturePluginData displayName="Google App Engine (Python)" pluginName="Pythonid" pluginId="Pythonid" bundled="true" />
+                      <FeaturePluginData displayName="Google App Engine (Python)" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                 </map>
