@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="counter" type="PLAIN_TEXT" />
       <mapping pattern="ad_config_ext.kt" type="PLAIN_TEXT" />
+      <mapping pattern="counter" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping pattern="odir" type="PLAIN_TEXT" />
       <mapping pattern="yuluyao" type="PLAIN_TEXT" />
