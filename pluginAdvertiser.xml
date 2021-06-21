@@ -7,21 +7,6 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="AppCodeCatchTestRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Catch" pluginName="AppCode Catch" pluginId="org.jetbrains.plugins.appcode.test.catch" />
-                    </value>
-                  </entry>
-                  <entry key="AppleAppExtensionRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Application Extension" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
-                    </value>
-                  </entry>
-                  <entry key="AppleRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Application" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
-                    </value>
-                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
@@ -35,11 +20,6 @@
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="DjangoTestsConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Django tests" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
@@ -65,11 +45,6 @@
                   <entry key="GoTestRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Go Test" pluginName="Go" pluginId="org.jetbrains.plugins.go" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="GradleRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Gradle" pluginName="Gradle" pluginId="com.intellij.gradle" />
                     </value>
                   </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
@@ -102,56 +77,6 @@
                       <FeaturePluginData displayName="NW.js" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="OCBoostTestRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Boost.Test" pluginName="AppCode Boost.Test" pluginId="org.jetbrains.plugins.appcode.test.boost" />
-                    </value>
-                  </entry>
-                  <entry key="OCGoogleTestRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Google Test" pluginName="AppCode Google Testing and Mocking Framework" pluginId="org.jetbrains.plugins.appcode.test.google" />
-                    </value>
-                  </entry>
-                  <entry key="OCUnitRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="XCTest" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
-                    </value>
-                  </entry>
-                  <entry key="PyBehaveRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Behave" pluginName="Pythonid" pluginId="Pythonid" />
-                    </value>
-                  </entry>
-                  <entry key="PyRemoteDebugConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Python Debug Server" pluginName="Python" pluginId="Pythonid" />
-                    </value>
-                  </entry>
-                  <entry key="Python.AppEngineServer">
-                    <value>
-                      <FeaturePluginData displayName="App Engine server" pluginName="Pythonid" pluginId="Pythonid" />
-                    </value>
-                  </entry>
-                  <entry key="Python.DjangoServer">
-                    <value>
-                      <FeaturePluginData displayName="Django Server" pluginName="Python" pluginId="Pythonid" />
-                    </value>
-                  </entry>
-                  <entry key="Python.FlaskServer">
-                    <value>
-                      <FeaturePluginData displayName="Flask server" pluginName="Python" pluginId="Pythonid" />
-                    </value>
-                  </entry>
-                  <entry key="Python.PyramidServer">
-                    <value>
-                      <FeaturePluginData displayName="Pyramid server" pluginName="Python" pluginId="Pythonid" />
-                    </value>
-                  </entry>
-                  <entry key="PythonConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Python" pluginName="Python" pluginId="Pythonid" />
-                    </value>
-                  </entry>
                   <entry key="ReactNative">
                     <value>
                       <FeaturePluginData displayName="React Native" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
@@ -167,24 +92,9 @@
                       <FeaturePluginData displayName="Swagger Codegen" pluginName="OpenAPI Specifications" pluginId="com.intellij.swagger" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="SwiftPackageManagerRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Swift Package Run" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
-                    </value>
-                  </entry>
-                  <entry key="SwiftPackageManagerTestRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Swift Package Test" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
-                    </value>
-                  </entry>
                   <entry key="TSqltConfigurationType">
                     <value>
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="Tox">
-                    <value>
-                      <FeaturePluginData displayName="tox" pluginName="Python" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
@@ -192,19 +102,9 @@
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="XSLT">
-                    <value>
-                      <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
-                    </value>
-                  </entry>
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="docs">
-                    <value>
-                      <FeaturePluginData displayName="Python docs" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
@@ -222,11 +122,6 @@
                       <FeaturePluginData displayName="npm" pluginName="JavaScript and TypeScript" pluginId="JavaScript" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="tests">
-                    <value>
-                      <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" />
-                    </value>
-                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
@@ -234,27 +129,7 @@
         </entry>
         <entry key="com.intellij.facetType">
           <value>
-            <FeaturePluginsList>
-              <option name="featureMap">
-                <map>
-                  <entry key="buildout-python">
-                    <value>
-                      <FeaturePluginData displayName="Buildout Support" pluginName="Python" pluginId="Pythonid" />
-                    </value>
-                  </entry>
-                  <entry key="django">
-                    <value>
-                      <FeaturePluginData displayName="Django" pluginName="Python" pluginId="Pythonid" />
-                    </value>
-                  </entry>
-                  <entry key="google-appengine-python">
-                    <value>
-                      <FeaturePluginData displayName="Google App Engine (Python)" pluginName="Pythonid" pluginId="Pythonid" />
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </FeaturePluginsList>
+            <FeaturePluginsList />
           </value>
         </entry>
       </map>
