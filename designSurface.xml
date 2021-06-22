@@ -7,6 +7,7 @@
         <entry key="app/src/main/res/drawable/back_dark.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_feed_back.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_food_info.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/bg_home_mini.xml" value="0.43020833333333336" />
         <entry key="app/src/main/res/drawable/bg_item_main_foot.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_main_menu_1.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_mini.xml" value="0.43020833333333336" />
@@ -50,7 +51,7 @@
         <entry key="app/src/main/res/drawable/studio_opt_bg.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/studio_opt_name.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/layout-land/class0_fragment.xml" value="0.35185185185185186" />
-        <entry key="app/src/main/res/layout-land/class_activity.xml" value="0.35185185185185186" />
+        <entry key="app/src/main/res/layout-land/class_activity.xml" value="1.0" />
         <entry key="app/src/main/res/layout-land/feed_back_activity.xml" value="0.35185185185185186" />
         <entry key="app/src/main/res/layout-land/home_activity.xml" value="0.9404958677685951" />
         <entry key="app/src/main/res/layout-land/mini_dialog.xml" value="0.3514109347442681" />
@@ -67,6 +68,7 @@
         <entry key="app/src/main/res/layout/card_main_item.xml" value="0.3432971014492754" />
         <entry key="app/src/main/res/layout/card_selector_item.xml" value="0.3432971014492754" />
         <entry key="app/src/main/res/layout/choice_item.xml" value="0.254981884057971" />
+        <entry key="app/src/main/res/layout/class_activity.xml" value="0.30932971014492755" />
         <entry key="app/src/main/res/layout/content_scrolling.xml" value="0.3183876811594203" />
         <entry key="app/src/main/res/layout/dialog_answer_cor.xml" value="0.3446557971014493" />
         <entry key="app/src/main/res/layout/dialog_backup_ad.xml" value="0.33605072463768115" />
