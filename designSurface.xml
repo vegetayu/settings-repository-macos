@@ -2,13 +2,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/drawable-v21/launch_background.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/back_dark.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_feed_back.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_food_info.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/bg_home_mini.xml" value="0.43020833333333336" />
         <entry key="app/src/main/res/drawable/bg_item_main_foot.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_main_menu_1.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/bg_mini.xml" value="0.43020833333333336" />
         <entry key="app/src/main/res/drawable/bg_setting.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_skip.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/bg_webview.xml" value="0.43072916666666666" />
@@ -49,7 +52,7 @@
         <entry key="app/src/main/res/drawable/studio_opt_bg.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/studio_opt_name.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/layout-land/class0_fragment.xml" value="0.35185185185185186" />
-        <entry key="app/src/main/res/layout-land/class_activity.xml" value="0.35185185185185186" />
+        <entry key="app/src/main/res/layout-land/class_activity.xml" value="0.8579160203941497" />
         <entry key="app/src/main/res/layout-land/feed_back_activity.xml" value="0.35185185185185186" />
         <entry key="app/src/main/res/layout-land/home_activity.xml" value="0.9404958677685951" />
         <entry key="app/src/main/res/layout-land/mini_dialog.xml" value="0.3514109347442681" />
@@ -66,7 +69,9 @@
         <entry key="app/src/main/res/layout/card_main_item.xml" value="0.3432971014492754" />
         <entry key="app/src/main/res/layout/card_selector_item.xml" value="0.3432971014492754" />
         <entry key="app/src/main/res/layout/choice_item.xml" value="0.254981884057971" />
+        <entry key="app/src/main/res/layout/class_activity.xml" value="0.30932971014492755" />
         <entry key="app/src/main/res/layout/content_scrolling.xml" value="0.3183876811594203" />
+        <entry key="app/src/main/res/layout/date_time_picker.xml" value="0.5" />
         <entry key="app/src/main/res/layout/dialog_answer_cor.xml" value="0.3446557971014493" />
         <entry key="app/src/main/res/layout/dialog_backup_ad.xml" value="0.33605072463768115" />
         <entry key="app/src/main/res/layout/dialog_g_exit_sp.xml" value="0.1" />
@@ -77,6 +82,7 @@
         <entry key="app/src/main/res/layout/emo_detail_activity.xml" value="0.375" />
         <entry key="app/src/main/res/layout/emo_img_item.xml" value="0.1802168021680217" />
         <entry key="app/src/main/res/layout/emo_tag_item.xml" value="0.35597826086956524" />
+        <entry key="app/src/main/res/layout/entrance.xml" value="0.3532608695652174" />
         <entry key="app/src/main/res/layout/feed_back_activity.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/layout/food_activity.xml" value="0.335" />
         <entry key="app/src/main/res/layout/food_opt_item.xml" value="0.34601449275362317" />
@@ -94,7 +100,7 @@
         <entry key="app/src/main/res/layout/item_studio_option.xml" value="0.20212765957446807" />
         <entry key="app/src/main/res/layout/layout_splash_style_two.xml" value="0.33605072463768115" />
         <entry key="app/src/main/res/layout/meme_activity.xml" value="0.45" />
-        <entry key="app/src/main/res/layout/mini_dialog.xml" value="0.30344202898550726" />
+        <entry key="app/src/main/res/layout/mini_dialog.xml" value="0.5120540019286403" />
         <entry key="app/src/main/res/layout/permission_notice.xml" value="0.5" />
         <entry key="app/src/main/res/layout/pic_merge_activity.xml" value="0.24728260869565216" />
         <entry key="app/src/main/res/layout/platform_item.xml" value="0.34375" />
@@ -109,6 +115,9 @@
         <entry key="app/src/main/res/layout/welcome_page_b.xml" value="0.3432971014492754" />
         <entry key="app/src/main/res/layout/welcome_page_c.xml" value="0.3432971014492754" />
         <entry key="app/src/main/res/menu/food.xml" value="0.415625" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25729166666666664" />
+        <entry key="libad/src/main/res/layout/dialog_splash_all.xml" value="0.5" />
+        <entry key="libad/src/main/res/layout/layout.xml" value="0.26721014492753625" />
       </map>
     </option>
   </component>
