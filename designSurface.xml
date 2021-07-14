@@ -117,9 +117,11 @@
         <entry key="app/src/main/res/menu/food.xml" value="0.415625" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25729166666666664" />
         <entry key="libad/src/main/res/drawable/bg_skip.xml" value="0.43020833333333336" />
+        <entry key="libad/src/main/res/drawable/shape_count_down.xml" value="0.43020833333333336" />
         <entry key="libad/src/main/res/layout/dialog_backup_ad.xml" value="0.24048913043478262" />
         <entry key="libad/src/main/res/layout/dialog_splash_all.xml" value="0.5" />
         <entry key="libad/src/main/res/layout/layout.xml" value="0.26721014492753625" />
+        <entry key="libad/src/main/res/layout/layout_splash_style_two.xml" value="0.29030797101449274" />
       </map>
     </option>
   </component>
