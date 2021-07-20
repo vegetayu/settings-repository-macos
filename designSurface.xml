@@ -29,6 +29,7 @@
         <entry key="app/src/main/res/drawable/btn_primary_round.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/btn_refresh_tag.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/btn_save_suc_continue.xml" value="0.43072916666666666" />
+        <entry key="app/src/main/res/drawable/btn_sel.xml" value="0.43020833333333336" />
         <entry key="app/src/main/res/drawable/btn_small.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/btn_welcome_next.xml" value="0.43072916666666666" />
         <entry key="app/src/main/res/drawable/btn_welcome_skip.xml" value="0.43072916666666666" />
@@ -90,7 +91,7 @@
         <entry key="app/src/main/res/layout/goods_activity.xml" value="0.34375" />
         <entry key="app/src/main/res/layout/goods_detail_activity.xml" value="0.245018115942029" />
         <entry key="app/src/main/res/layout/goods_item.xml" value="0.5" />
-        <entry key="app/src/main/res/layout/goods_list_activity.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/goods_list_activity.xml" value="0.6847960444993819" />
         <entry key="app/src/main/res/layout/guid_dialog_a.xml" value="0.35597826086956524" />
         <entry key="app/src/main/res/layout/home_activity.xml" value="0.37092391304347827" />
         <entry key="app/src/main/res/layout/item_func_foot.xml" value="0.25815217391304346" />
